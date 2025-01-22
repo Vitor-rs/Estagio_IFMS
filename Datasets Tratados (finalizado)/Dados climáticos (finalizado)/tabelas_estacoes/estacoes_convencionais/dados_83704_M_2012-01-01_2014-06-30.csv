@@ -1,0 +1,42 @@
+Nome: IVINHEMA
+Codigo Estacao: 83704
+Latitude: -22.30027777
+Longitude: -53.82277777
+Altitude: 377.4
+Situacao: Fechada
+Data Inicial: 2012-01-01
+Data Final: 2014-06-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA AO NIVEL DO MAR, MEDIA MENSAL(mB);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;5;182.7;135.7;135.7;264.1;5.6;11;144.1;1006.8;966.6;31.8;null;null;73.4;6;1.5;64.4;
+2012-02-29;36;198.1;122.4;122.4;232.9;6;10;136;1007.7;967.7;33.4;null;null;71.2;3;1.4;64.4;
+2012-03-31;14;215.7;124.6;121;259.2;4.8;7;81.5;1009.5;969.2;31.8;null;null;67;3;1.4;66.2;
+2012-04-30;18;155.6;113.9;113.9;205.1;6.4;8;150.4;1010.2;969.5;29.5;null;null;76.3;4;1.4;64.8;
+2012-05-31;14;128.4;112;108.9;231.6;4.5;5;90.4;1013.5;972.2;26.7;null;null;77.7;3;1.5;65.8;
+2012-06-30;5;127.1;105.6;105.6;182.7;5.9;7;312.5;1014.1;972.6;25;null;null;80.5;4;1.5;63.8;
+2012-07-31;14;172.6;110.4;77.1;222.6;3.7;3;16;1014.8;973.2;25.9;null;null;71.7;4;1.5;66.3;
+2012-08-31;14;301.1;115.3;31;281.3;3.2;1;5;1014.7;974;30.2;null;null;60.8;4;1.7;66.8;
+2012-09-30;27;307.3;118;118;242.4;4.7;5;130.8;1011.7;970.9;32.4;null;null;57.3;5;1.7;66.6;
+2012-10-31;14;null;128.6;113;null;6;7;108.3;null;967.6;null;null;null;71;8;2.1;65.9;
+2012-11-30;23;null;130;130;null;6.7;8;151.4;null;966.3;null;null;null;null;3;1.6;65;
+2012-12-31;5;null;137;137;null;7.1;13;165.7;null;966.1;null;null;null;null;5;1.7;64.8;
+2013-01-31;27;null;135.7;124.3;null;6.9;6;87.4;null;967.8;null;null;null;null;5;1.8;66.7;
+2013-02-28;5;null;118.1;118.1;183.4;7.8;14;172.8;null;967.9;null;null;null;null;4;1.6;65.7;
+2013-03-31;14;null;124.8;124.8;224.6;7.1;13;231.7;null;968.5;null;null;null;null;5;1.6;66.5;
+2013-04-30;14;null;114.1;114.1;197.7;6.5;7;141.6;null;970.4;null;null;null;null;4;1.6;66.4;
+2013-05-31;14;null;112.2;94.8;211.5;4.8;1;46.8;null;970.7;null;null;null;null;5;1.7;65.9;
+2013-06-30;9;null;105.6;105.6;138.5;6.6;null;195.8;null;971.9;null;null;null;null;3;1.4;62.6;
+2013-07-31;18;null;110.3;82.7;231.8;4.4;null;26.1;null;974.3;null;null;null;null;6;1.8;65.8;
+2013-08-31;9;null;115.1;29.3;null;4.4;null;0;null;973;null;null;null;null;6;2.1;66.7;
+2013-09-30;27;null;117.8;101.6;null;5.8;null;104.9;null;970.7;null;null;null;null;4;1.9;66.7;
+2013-10-31;18;null;128.4;128.4;null;6.9;null;187.1;null;969.4;null;null;null;null;8;1.8;66.6;
+2013-11-30;14;null;129.8;129.8;null;5.6;null;140.5;null;967.3;null;null;null;null;4;2;64.4;
+2013-12-31;14;null;137;129.1;null;6.7;null;110.1;null;965.6;null;null;null;null;4;1.7;66.9;
+2014-01-31;36;null;135.7;135.7;233.7;6.7;null;160.1;null;968.8;null;null;null;null;3;1.5;66.7;
+2014-02-28;5;null;118.1;118.1;190.5;7.7;null;228.1;null;968;null;null;null;null;4;1.9;65.1;
+2014-03-31;14;null;124.8;124.8;200.5;6.9;null;147.7;null;968.8;null;null;null;null;4;1.7;66.1;
+2014-04-30;18;null;114.1;104.8;196.5;6.6;null;67.8;null;970.4;null;null;null;null;4;1.7;65.8;
+2014-05-31;5;null;112.2;112.2;186.1;6.7;null;149.5;null;971.5;null;null;null;null;4;1.7;66.3;
+2014-06-30;27;null;105.6;92.2;203.6;5.1;null;49.8;null;972.6;null;null;null;null;6;1.8;66.6;
+

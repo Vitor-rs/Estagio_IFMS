@@ -1,0 +1,50 @@
+Nome: ECOPORANGA
+Codigo Estacao: 83546
+Latitude: -18.365694
+Longitude: -40.840656
+Altitude: 253.95
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2015-02-27
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;null;null;null;null;null;null;14;152.8;null;30.8;null;21.3;null;null;null;null;null;
+2012-02-29;null;137.3;null;null;null;null;11;66.5;null;32.1;null;21.1;null;null;null;null;null;
+2012-03-31;null;176.8;null;null;null;null;10;32.8;null;33;null;21.5;null;null;null;null;null;
+2012-04-30;null;139.7;null;null;null;null;11;61.6;null;31.9;null;21.3;null;null;null;null;null;
+2012-05-31;null;139.2;null;null;null;null;10;34.4;null;28.5;null;19;null;null;null;null;null;
+2012-06-30;null;null;null;null;null;null;5;12.2;null;29.3;null;18.8;null;null;null;null;null;
+2012-07-31;null;125.6;null;null;null;null;10;53.7;null;27.8;null;17.3;null;null;null;null;null;
+2012-08-31;null;118.4;null;null;null;null;21;178.8;null;26.6;null;17.4;null;null;null;null;null;
+2012-09-30;null;143.5;null;null;null;null;8;39.4;null;28.8;null;18.5;null;null;null;null;null;
+2012-10-31;null;198.9;null;null;null;null;10;18;null;31.9;null;19.5;null;null;null;null;null;
+2012-11-30;null;116;null;null;null;null;23;593.3;null;29.1;null;20.4;null;null;null;null;null;
+2012-12-31;null;195.5;null;null;null;null;3;24.8;null;34.3;null;21.2;null;null;null;null;null;
+2013-01-31;null;165.2;null;null;null;null;15;158.6;null;32.6;null;21.2;null;null;null;null;null;
+2013-02-28;null;180.3;null;null;null;null;null;35.5;null;33.5;null;21.5;null;null;null;null;null;
+2013-03-31;null;148.5;null;null;null;null;null;173.8;null;32.5;null;22.4;null;null;null;null;null;
+2013-04-30;null;103.2;null;null;null;null;null;94.7;null;29.3;null;20.1;null;null;null;null;null;
+2013-05-31;null;117.9;null;null;null;null;null;27.5;null;29;null;18.5;null;null;null;null;null;
+2013-06-30;null;92.4;null;null;null;null;null;19.8;null;28.6;null;18.8;null;null;null;null;null;
+2013-07-31;null;120.6;null;null;null;null;null;12.4;null;28.2;null;17.8;null;null;null;null;null;
+2013-08-31;null;143.8;null;null;null;null;null;22.6;null;28.8;null;17.1;null;null;null;null;null;
+2013-09-30;null;147;null;null;null;null;null;50.7;null;29.1;null;18.6;null;null;null;null;null;
+2013-10-31;null;136.8;null;null;null;null;null;105.3;null;28.4;null;18.9;null;null;null;null;null;
+2013-11-30;null;147.6;null;null;null;null;null;260.2;null;30.6;null;19.6;null;null;null;null;null;
+2013-12-31;null;101;null;null;null;null;null;630.6;null;30.7;null;21.1;null;null;null;null;null;
+2014-01-31;null;160.5;null;null;null;null;null;49.3;null;32.4;null;21.1;null;null;null;null;null;
+2014-02-28;null;172.1;null;null;null;null;null;67.9;null;32.5;null;20.8;null;null;null;null;null;
+2014-03-31;null;140;null;null;null;null;null;121.1;null;31.8;null;21.1;null;null;null;null;null;
+2014-04-30;null;121.5;null;null;null;null;null;85.6;null;30.8;null;20;null;null;null;null;null;
+2014-05-31;null;117.3;null;null;null;null;null;8.8;null;29.4;null;18.2;null;null;null;null;null;
+2014-06-30;null;null;null;null;null;null;null;82.8;null;27.4;null;17.5;null;null;null;null;null;
+2014-07-31;null;null;null;null;null;null;null;102.7;null;26.7;null;16.9;null;null;null;null;null;
+2014-08-31;null;null;null;null;null;null;null;46.8;null;28.1;null;15.7;null;null;null;null;null;
+2014-09-30;null;155.6;null;null;null;null;null;9.6;null;30.1;null;17.6;null;null;null;null;null;
+2014-10-31;null;171.7;null;null;null;null;null;215.7;null;30.4;null;18.5;null;null;null;null;null;
+2014-11-30;null;160.5;null;null;null;null;null;132.3;null;30.2;null;19.4;null;null;null;null;null;
+2014-12-31;null;155.5;null;null;null;null;null;115.3;null;31.2;null;20.1;null;null;null;null;null;
+2015-01-31;null;229.5;null;null;null;null;null;20;null;35.2;null;null;null;null;null;null;null;
+2015-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

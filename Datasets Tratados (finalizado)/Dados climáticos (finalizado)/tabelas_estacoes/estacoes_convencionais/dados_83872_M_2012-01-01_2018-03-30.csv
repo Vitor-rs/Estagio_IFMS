@@ -1,0 +1,87 @@
+Nome: INDAIAL
+Codigo Estacao: 83872
+Latitude: -26.91361111
+Longitude: -49.26805554
+Altitude: 72.28
+Situacao: Fechada
+Data Inicial: 2012-01-01
+Data Final: 2018-03-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;5;79.4;151.2;151.2;188.7;6.9;21;368.4;1004.8;30.2;23.9;20.3;81.6;4;1.6;19.5;null;
+2012-02-29;9;57.3;142.6;138;126.6;6.6;14;110.6;1004.6;32.2;25.8;22;79.8;3;1.6;17.9;null;
+2012-03-31;23;103.1;136;125.2;225.1;4.9;11;106.8;1006.7;30.6;23.6;19.1;76.5;4;1.6;26.9;null;
+2012-04-30;5;52.1;117.9;117.9;154;6.7;13;148.4;1007.1;27.1;21.4;17.9;82.4;4;1.4;19.1;null;
+2012-05-31;23;52.2;110.4;110.4;160.4;6.4;14;121.1;1011.5;24.5;18.6;14.9;86;3;1.4;20.4;null;
+2012-06-30;23;35.3;99;99;91.1;7.3;12;190.5;1011;20.8;16.2;13.4;88.8;3;1.5;14.6;null;
+2012-07-31;23;50.4;100.9;100.9;124.9;6.6;17;207.7;1011.2;21.2;15.2;11.2;87;6;1.5;18.6;null;
+2012-08-31;5;36.6;118.2;92.6;118.6;7;9;37;1014.6;24.5;19;15.9;83.7;3;1.4;15.3;null;
+2012-09-30;23;57.9;120.3;78.4;135.7;6.7;9;57.8;1011;25;19.1;14.8;78.8;7;1.8;20.5;null;
+2012-10-31;5;51.7;137.7;137.7;92.4;8.3;17;143;1006.9;26.4;21.4;17.9;81.2;4;1.6;17.5;null;
+2012-11-30;9;null;null;null;163.9;7.2;17;105.7;1005.8;null;null;null;null;4;1.9;27.5;null;
+2012-12-31;5;null;null;null;128.1;7.9;17;149.2;1002.9;null;null;null;null;7;1.8;21.3;null;
+2013-01-31;5;null;null;null;172.2;7.1;17;99;1006;null;null;null;76.4;4;1.8;24.9;null;
+2013-02-28;5;null;null;null;104.7;7.8;21;168;1004.7;null;null;null;82.2;3;1.7;19.3;null;
+2013-03-31;5;null;null;null;138.5;7.5;null;155.3;1007;null;null;null;83.6;4;1.5;22.3;null;
+2013-04-30;23;null;null;null;183.3;5.4;null;77;1008.8;null;null;null;81.1;5;1.6;24.5;null;
+2013-05-31;23;null;null;null;141.6;6.7;null;106.2;1009.2;null;null;null;85.1;5;1.7;19.9;null;
+2013-06-30;23;null;null;null;103.9;7.6;null;235.1;1010.1;null;null;null;90.1;5;1.5;15.1;null;
+2013-07-31;23;null;null;null;153.9;6.1;null;185.3;1013;null;null;null;86.8;5;1.6;18.7;null;
+2013-08-31;5;null;null;null;141.7;6.3;null;156.9;1011.6;null;null;null;84.3;7;1.6;17.5;null;
+2013-09-30;5;null;119.1;119.1;128.5;7.3;null;256.4;1010.1;24.8;18.8;14.8;81.3;8;1.9;17.3;null;
+2013-10-31;5;75.9;133.3;133.3;141.3;7.9;null;163.4;1008.7;26;20.4;16.6;78.9;8;1.8;20;null;
+2013-11-30;5;35.6;140.4;131.2;117.5;7.9;null;94.3;1006.8;27.4;22.1;18.3;80.3;7;2;21.9;null;
+2013-12-31;5;55.4;158;119.4;171;6.9;null;87.5;1003.3;31.2;24.9;20.8;76.4;5;1.8;29.2;null;
+2014-01-31;5;62.2;161.1;161.1;191.7;6.6;null;327.3;1005.2;33.7;26.3;22.2;79.1;10;1.8;20.3;null;
+2014-02-28;5;85.3;139.4;139.3;158.1;5.8;null;134.2;1005.5;33.9;26.4;22.1;76.5;4;1.7;21.5;null;
+2014-03-31;5;46.9;137.8;137.8;166.8;6.8;null;250.8;1006.5;30.1;24;20.6;82.7;5;1.6;20;null;
+2014-04-30;5;49.5;119.2;114.4;100.1;7.4;null;86.6;1009.2;27;21.7;18.8;84.3;5;1.4;18.6;null;
+2014-05-31;23;43.7;112;108.1;132.3;7.1;null;100;1009.5;24.3;18.9;15.9;86;4;1.4;18.7;null;
+2014-06-30;5;30.7;103.5;103.5;88.7;7.8;null;384.4;1010.6;21.9;17.5;15;88.3;6;1.4;17.1;null;
+2014-07-31;23;34.4;106.1;91.6;98.4;7.4;null;46.9;1014.1;21.5;16.6;13.8;87.5;6;1.4;16.2;null;
+2014-08-31;23;57.9;113;104.8;179.5;5.4;null;96.3;1011.8;24.5;17.7;13.7;80.5;8;1.8;20;null;
+2014-09-30;5;42.5;122.6;122.6;97.2;7.7;null;179.8;1009;25.1;19.8;16.6;83.2;5;1.8;19.7;null;
+2014-10-31;5;77.8;140.5;122;117.9;7.5;null;72.8;1009.2;28.3;22.2;18.6;77.3;6;1.8;20.7;null;
+2014-11-30;5;71.9;144.9;141.1;117.9;7.5;null;137.4;1006;28.8;23.2;19.7;77.6;4;1.5;24.1;null;
+2014-12-31;5;null;157.1;157.1;121;7.8;null;213.8;1004.8;30.6;24.6;21;81.5;3;1.4;21.3;null;
+2015-01-31;5;null;159.4;142.6;153.4;7.1;null;95.2;1005.5;32.8;25.8;22;78.9;6;1.8;25.6;null;
+2015-02-28;5;null;135.4;135.4;125.3;7.1;null;152.9;1004.8;31.7;25.2;21.8;82.2;8;1.7;19.6;null;
+2015-03-31;5;null;138.6;138.6;135.6;7.3;null;219.7;1006.4;29.9;24.2;20.9;82;4;1.4;19.7;null;
+2015-04-30;5;null;119.5;109;144.7;6.7;null;69.8;1008.6;27.5;21.8;18.6;82.6;3;1.3;18.7;null;
+2015-05-31;23;null;111.9;111.9;89.2;7.7;null;181.6;1010.6;23.7;19;16.5;88.1;4;1.4;15.4;null;
+2015-06-30;23;null;99.5;99.5;118.8;6;null;136.2;1012.7;22.1;16.3;13.2;87.8;5;1.5;17.8;null;
+2015-07-31;23;null;108.7;108.7;98.4;7.3;null;170.1;1010.5;22.3;17.3;14.5;87.8;12;1.6;17.4;null;
+2015-08-31;5;null;122.4;88.1;114.4;7.2;null;26.4;1010.5;26.2;20.2;16.9;82.1;6;1.5;13.8;null;
+2015-09-30;5;null;122.8;122.8;120.5;7.6;null;174.1;1006.9;25.4;19.9;16.7;84;5;1.7;15.7;null;
+2015-10-31;5;16.2;131.5;131.5;27.2;9.7;null;343.7;1008.5;23.7;20;17.9;90.1;4;1.4;11.8;null;
+2015-11-30;5;37.3;138.7;138.7;54.8;9.1;null;173.7;1005.4;25.8;21.7;19.2;86.3;5;1.6;17.1;null;
+2015-12-31;5;20.8;157.1;157.1;91.3;8.9;null;179.7;1005.3;30.1;24.6;21.6;null;6;1.7;15.2;null;
+2016-01-31;5;null;null;null;null;7.6;null;null;1006;30.9;24.9;21.5;null;3;1.6;23.8;null;
+2016-02-29;5;null;null;null;null;7.3;null;146.9;1004.9;null;null;null;null;3;1.5;22.2;null;
+2016-03-31;23;null;null;null;null;5.6;null;null;1006.9;null;null;null;null;5;1.8;25.3;null;
+2016-04-30;23;null;null;null;160.1;5.9;null;179.2;1007.4;29.3;23.4;20.7;null;8;1.7;15.9;null;
+2016-05-31;23;null;null;null;109.5;7.2;null;null;1012.2;22.1;17.7;14.9;null;5;1.6;18.9;null;
+2016-06-30;23;null;null;null;123.8;6.4;null;null;1014.6;19.5;13.8;10.6;null;5;1.6;17.3;null;
+2016-07-31;23;null;null;null;112;7.3;null;null;1012.4;21.8;16.2;13.1;null;6;1.6;16.1;null;
+2016-08-31;null;null;null;null;null;null;null;null;1010.6;22.7;17.1;14.1;null;4;null;null;null;
+2016-09-30;5;null;null;null;150.8;6;null;null;1011.7;24.8;18.7;14.6;null;7;1.7;23.4;null;
+2016-10-31;36;null;null;null;92.9;8.6;null;null;1008.6;24.6;20.1;17.5;null;7;1.7;16.5;null;
+2016-11-30;null;null;null;null;null;null;null;null;1006.8;28.2;22.4;18.6;null;6;null;null;null;
+2016-12-31;36;null;null;null;109.9;8;null;null;1005.9;28;23;20.1;null;3;1.5;14.5;null;
+2017-01-31;23;null;null;null;null;7.2;null;null;1005.3;31.7;25.4;22.1;null;4;1.4;16.7;null;
+2017-02-28;5;null;null;null;142.6;7.2;null;null;1005.9;32.3;26.2;23.1;null;4;1.3;14.8;null;
+2017-03-31;18;null;null;null;116.4;7.7;null;null;1008.1;28.8;23.6;20.8;null;3;1.2;15.5;null;
+2017-04-30;18;null;null;null;118.6;7;null;null;1009.7;26.6;21.3;18.5;null;10;1.6;16.8;null;
+2017-05-31;32;null;null;null;null;8.6;null;null;1010.5;24.3;20;17.5;null;3;1.2;11.8;null;
+2017-06-30;23;null;null;null;null;6.8;null;null;1012.3;22.5;17.3;14.3;null;4;1.5;18.6;null;
+2017-07-31;23;null;null;null;null;5.2;null;null;1017.1;null;null;null;null;6;1.8;12.9;null;
+2017-08-31;5;null;null;null;null;5.7;null;null;1011.5;null;null;null;null;4;1.6;17.8;null;
+2017-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2017-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2017-11-30;null;null;null;null;null;null;null;null;1007.2;null;null;null;null;4;null;null;null;
+2017-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2018-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2018-02-28;null;null;null;null;156.3;null;null;null;1004.7;null;null;null;null;4;null;null;null;
+2018-03-31;null;null;null;null;105.9;null;null;null;1004.4;null;null;null;null;4;null;null;null;
+

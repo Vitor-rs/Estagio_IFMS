@@ -1,0 +1,33 @@
+Nome: FRUTAL
+Codigo Estacao: 83574
+Latitude: -20.034803
+Longitude: -48.930435
+Altitude: 547.09
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2013-09-08
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;5;109.2;100.8;100.8;155.9;7.6;22;361.3;958.8;null;null;20.6;76.4;4;1.3;10;null;
+2012-02-29;9;164.2;133.9;133.9;227.9;5.7;12;174.6;958.4;null;null;21.6;69;3;1.1;10;null;
+2012-03-31;9;173.4;137;128.8;248.8;5.2;6;91.6;958.2;32.9;26.1;21;63.7;4;1.1;10;null;
+2012-04-30;9;132.2;111.1;111.1;210.6;5.5;11;158.2;959.1;32;25.2;20.1;68.2;6;1.2;10;null;
+2012-05-31;9;null;69.7;68.6;218.8;4.7;7;60.5;962.1;28.1;21.5;16.6;67.4;4;1.2;10;null;
+2012-06-30;9;114.1;68.7;68.7;198;4.9;8;103.5;962.2;28.6;22.1;17.5;69;3;1.2;10;null;
+2012-07-31;9;188.8;66.9;49.7;278.5;3.1;1;1.8;963.1;29.8;21.4;15.2;53.3;6;1.4;10;null;
+2012-08-31;9;263.8;88.3;30.6;279.5;2.9;0;0;964.6;31;23.1;16.5;44;4;1.9;10;null;
+2012-09-30;9;260.5;117.4;58.3;259.9;3.3;3;62.4;961.8;34.8;25.9;18.6;43.2;4;1.6;10;null;
+2012-10-31;9;256.7;175.1;61.7;262.5;4.5;3;54.2;958.9;36.2;28.2;21.6;47.1;7;1.4;10;null;
+2012-11-30;9;152.4;143.4;143.4;233.2;6;14;225.9;956;33.2;26.4;21.2;65.1;3;1.1;10;null;
+2012-12-31;9;139.5;163;163;207.3;6.6;14;267.9;949.7;33.6;27;22.3;68;8;1.4;10;null;
+2013-01-31;9;113.2;135;135;151.4;7.3;16;211.9;950.1;31.3;25.4;21.5;74.7;4;1.4;10;null;
+2013-02-28;9;102.2;107.4;107.4;null;6.2;15;345.1;950.2;null;null;null;null;3;1;12;null;
+2013-03-31;9;93.5;114;113.9;null;7;2;109;950;null;null;null;null;3;1.4;10;null;
+2013-04-30;9;null;null;null;null;6.1;null;103.6;950.3;null;null;null;null;3;1.5;10;null;
+2013-05-31;null;null;null;null;null;null;null;0;null;null;null;null;null;null;null;null;null;
+2013-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2013-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2013-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2013-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

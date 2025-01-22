@@ -1,0 +1,30 @@
+Nome: TRIUNFO
+Codigo Estacao: 83954
+Latitude: -29.869757
+Longitude: -51.379201
+Altitude: 23.6
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2013-06-29
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;14;125.4;null;null;null;3.9;6;131.5;null;31.1;24.1;18.7;75.1;5;2;43.8;null;
+2012-02-29;14;113.1;null;null;null;4.7;11;206.6;null;33.2;26;21.5;77;5;2.2;47.2;null;
+2012-03-31;14;106.7;null;null;null;2.9;8;102.1;null;29.4;22.7;17.7;75.6;5.8;1.6;49.9;null;
+2012-04-30;14;87.2;null;null;null;5.2;7;76.4;null;25.4;19.3;15;79.4;5;1.6;45.3;null;
+2012-05-31;14;70.3;null;null;null;3.3;2;45.8;null;25.1;18;12.8;81.8;5.6;1.6;45.8;null;
+2012-06-30;14;64.8;null;null;null;4.8;7;27.4;null;20.5;14.5;9.4;85.6;6.8;1.7;44.6;null;
+2012-07-31;18;59.7;null;null;null;5.8;12;163.7;null;19;13;8.8;92.1;5;2.2;40.5;null;
+2012-08-31;null;90.3;null;null;null;6.2;13;88;null;25.9;18.8;14.1;88.3;null;null;39.5;null;
+2012-09-30;18;85.1;null;null;null;6.5;11;253.7;null;24.4;17.9;13.2;88.3;8.1;2.6;34;null;
+2012-10-31;14;94.5;null;null;null;6.5;13;178.9;null;26.3;20.7;16.3;88.6;7.9;2.4;34.3;null;
+2012-11-30;18;114.4;null;null;null;4;7;58.2;null;29.7;22.6;16.7;85.3;7.7;2.3;42.6;null;
+2012-12-31;14;114.4;null;null;null;5.1;12;208.7;null;32.1;25.3;19.9;86.4;7;2.3;39.8;null;
+2013-01-31;14;115.1;null;null;null;3.5;7;135;null;29.9;23.4;18.2;87;5;2.3;48.2;null;
+2013-02-28;18;89.3;null;null;null;5;null;111.1;null;30.9;24.4;19.6;88.5;4.9;2.2;44.5;null;
+2013-03-31;18;76.4;null;null;null;5.2;null;100.2;null;26.7;21.1;16.6;89.1;4.4;2;38.1;null;
+2013-04-30;18;80.9;null;null;null;4.2;null;87;null;26.7;19.8;14.3;87.5;7.1;1.8;40.9;null;
+2013-05-31;18;54.4;null;null;null;5.7;null;67.1;null;24;16.6;11.8;88.1;18;4.1;39.8;null;
+2013-06-30;18;45.7;null;null;null;6.8;null;107.6;null;20;14.2;9.6;92.3;9.3;1.9;25.1;null;
+

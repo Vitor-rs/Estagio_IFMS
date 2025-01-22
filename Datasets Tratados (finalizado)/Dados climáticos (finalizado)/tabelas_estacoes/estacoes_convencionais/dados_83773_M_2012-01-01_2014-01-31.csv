@@ -1,0 +1,37 @@
+Nome: AVARE
+Codigo Estacao: 83773
+Latitude: -23.083579
+Longitude: -48.911718
+Altitude: 831.96
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2014-01-31
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;36;null;100.1;100.1;null;6.8;13;246.2;918.9;27.6;21.7;17.6;null;2.6;1.1;97.4;null;
+2012-02-29;null;null;105.8;105.8;null;null;8;null;919.1;29.3;23.9;19.5;null;1.5;null;null;null;
+2012-03-31;null;null;null;null;null;null;2;null;920.5;null;null;17.9;null;1.5;null;null;null;
+2012-04-30;null;null;null;null;null;null;3;null;921;null;null;16.6;null;2.1;null;null;null;
+2012-05-31;9;null;null;null;null;3.3;1;null;923.8;null;null;13.9;null;2.1;1.2;97.5;null;
+2012-06-30;null;null;null;null;null;null;9;null;922.5;null;null;13.8;null;4.6;null;null;null;
+2012-07-31;null;null;null;null;null;null;2;null;923.2;23.2;17.4;12.5;null;2.1;null;null;null;
+2012-08-31;null;null;null;null;null;null;1;null;null;null;null;null;null;null;null;null;null;
+2012-09-30;9;null;75.3;70.6;null;2.7;3;67.6;923.4;26.8;20.3;14.5;null;2.1;1.2;97.6;null;
+2012-10-31;9;null;102.3;102.3;null;4.3;9;107.3;920;29.6;22.6;16.3;null;2.6;1.1;97.7;null;
+2012-11-30;9;null;null;null;null;5.8;5;36.8;918.1;28.7;21.7;15.6;null;3.1;1.4;97.5;null;
+2012-12-31;0;null;null;null;null;4.7;12;148.6;918.1;31.1;24.2;18.5;null;3.1;.7;97.5;null;
+2013-01-31;9;null;108.1;108.1;null;7.6;10;244.4;919.4;28.2;21.5;16.2;null;2.1;1.2;97.2;null;
+2013-02-28;9;null;null;null;null;7.2;15;null;919.2;31;23;17.6;null;2.1;1;97.4;null;
+2013-03-31;9;null;90;90;null;6.3;10;205.8;920.1;28.5;21.5;15.6;null;2.1;1.1;97.3;null;
+2013-04-30;9;null;null;null;null;3.8;5;116.6;921.4;27.8;19.8;12.3;null;2.1;1.1;97.2;null;
+2013-05-31;null;null;null;null;null;null;null;null;921.5;24.8;17.6;11.6;null;1.5;null;null;null;
+2013-06-30;9;null;null;null;null;4.4;null;null;922.4;25;17.1;11.1;null;1.5;.7;97.2;null;
+2013-07-31;9;null;null;null;null;4.7;null;null;924;24.5;16.9;10.1;null;1.5;.9;97.4;null;
+2013-08-31;9;null;null;null;null;2;null;null;923.5;26.2;18.7;12.2;null;3.6;1.1;97.8;null;
+2013-09-30;9;null;null;null;null;4.7;null;53.6;923.4;25.7;19.1;12.2;null;1.5;1.2;97.7;null;
+2013-10-31;9;null;null;null;null;6.3;null;66.6;921.2;28.6;20.6;14.3;null;2.6;1.3;97.4;null;
+2013-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2013-12-31;null;null;null;null;null;null;null;null;917.9;null;null;16.2;null;2.1;null;null;null;
+2014-01-31;null;null;null;null;null;null;null;null;919.6;null;null;16.1;null;4.7;null;null;null;
+

@@ -1,0 +1,11 @@
+Data_Inicial,Data_Final,Data_Medicao,Periodicidade_Medicao,Local_Nome_Estacao,Situacao,Codigo_Estacao,Latitude,Longitude,Altitude,Numero_de_dias_com_precip_pluv_mensal_auto_em_numero,Precipitacao_total_mensal_auto_em_mm,Pressao_atmosferica_media_mensal_auto_em_mB,Temperatura_media_mensal_auto_Celsius,VENTO_velocidade_MAXIMA_mensal_auto_em_metros_seg,VENTO_velocidade_MEDIA_mensal_auto_em_metros_seg
+2012-01-01,2012-10-30,2012-01-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-02-29,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-03-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-04-30,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-05-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-06-30,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-07-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-08-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-09-30,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,
+2012-01-01,2012-10-30,2012-10-31,Mensal,ILHA DE TRINDADE,Desativada,A650,-20.483333,-29.321389,5.0,,,,,,

@@ -1,0 +1,19 @@
+Nome: LAMBARI
+Codigo Estacao: 83032
+Latitude: -21.944146
+Longitude: -45.317739
+Altitude: 884.56
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2012-07-19
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-02-29;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

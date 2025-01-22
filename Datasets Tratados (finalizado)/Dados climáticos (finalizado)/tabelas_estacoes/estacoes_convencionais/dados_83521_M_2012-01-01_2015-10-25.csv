@@ -1,0 +1,58 @@
+Nome: ITUIUTABA
+Codigo Estacao: 83521
+Latitude: -18.952916
+Longitude: -49.525072
+Altitude: 540.09
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2015-10-25
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;0;89.9;144.2;144.2;156.5;6.3;22;292.8;950.8;30.6;24.2;20.4;81.1;2.1;.9;59.8;null;
+2012-02-29;0;112;136.4;136.4;200.8;5;14;211.6;951.3;32.8;25.2;20.3;74.4;2.1;.8;61.7;null;
+2012-03-31;0;122.1;140.9;140.9;244.8;4.6;10;166.6;951.9;33.2;25.4;20.4;73.1;2.1;.8;63.1;null;
+2012-04-30;0;99;127.9;126.1;214.7;4.3;5;109.6;952.1;32.3;24.6;19.7;75.8;2.1;.7;60.5;null;
+2012-05-31;0;78;117.4;90.3;214.8;4.2;9;49.8;954.9;29.3;21.1;16;75.2;2.1;.7;61.3;null;
+2012-06-30;0;114.7;112.7;81.2;206.8;3.6;7;65.4;955.5;29.5;21.1;15.9;75.4;2.1;.9;60.6;null;
+2012-07-31;0;177.4;112.1;21.4;258.3;2;2;4.2;955.9;29.8;19.6;13.3;69.5;2.1;.7;61.4;null;
+2012-08-31;9;322.6;121.5;6.2;256.2;2.4;0;0;957;31.4;21.9;15.1;51.8;3.6;1.5;62.7;null;
+2012-09-30;5;291;null;null;222.7;2.9;5;42.5;953.7;35.3;25.2;17.5;44.3;2.6;1.2;63.1;null;
+2012-10-31;5;289.8;null;null;250.2;4.9;2;44.6;949.7;36.6;27.5;20.6;49.8;3.1;.9;63.5;null;
+2012-11-30;0;149.2;null;null;195.6;7;16;241.4;948.8;32.8;25.6;21.2;72;2.6;.7;64.4;null;
+2012-12-31;0;132;null;null;213.3;6.5;14;254.8;949.5;33.8;26.3;21.5;75.2;2.6;.6;62.7;null;
+2013-01-31;32;100.5;null;null;140.2;7.7;17;305.2;949.9;31.5;25.1;21.4;81.6;3.1;.7;62.7;null;
+2013-02-28;32;null;null;null;144.4;7.6;10;193.2;950.5;null;null;null;null;1.5;.7;73.3;null;
+2013-03-31;5;null;null;null;119;7.4;1;147.2;950.5;null;null;null;null;1.5;.9;84;null;
+2013-04-30;5;null;null;null;157.8;6.2;null;139.8;952.3;null;null;null;null;1.5;.9;84.3;null;
+2013-05-31;5;null;null;null;193.7;5;null;2.2;953.1;null;null;null;null;3.6;.9;84;null;
+2013-06-30;5;null;null;null;177.4;6;null;12.8;954.5;null;null;null;null;2.1;.7;84;null;
+2013-07-31;5;null;null;null;200.1;3.4;null;0;955.8;null;null;null;null;3.1;1.1;84;null;
+2013-08-31;5;null;null;null;222.2;3.6;null;0;954.4;null;null;null;null;3.1;1.2;84;null;
+2013-09-30;5;null;null;null;null;4.7;null;35;952.9;null;null;null;null;3.1;1.4;84;null;
+2013-10-31;5;null;null;null;172.4;7.3;null;59.2;951.2;null;null;null;null;3.1;1.1;84;null;
+2013-11-30;5;null;null;null;159.3;7.3;null;165.2;949.5;null;null;null;null;2.1;.9;84;null;
+2013-12-31;32;null;null;null;165.7;7.8;null;218.2;948.6;null;null;null;null;2.1;.8;84;null;
+2014-01-31;5;null;null;null;187.2;7.2;null;125.4;951.7;null;null;null;null;3.1;.9;84;null;
+2014-02-28;5;null;null;null;154;7;null;118.2;950.7;null;null;null;null;3.1;1.1;84;null;
+2014-03-31;5;null;null;null;126.8;7.3;null;214;951.6;null;null;null;null;2.1;.8;84;null;
+2014-04-30;5;null;null;null;154.6;6;null;60.4;952.1;null;null;null;null;2.1;.8;84;null;
+2014-05-31;5;null;null;null;164.2;4.9;null;0;953.7;null;null;14.8;null;5.8;.6;84;null;
+2014-06-30;5;null;null;null;169.9;5.3;null;5.8;954.7;null;null;14.7;null;3.1;.8;84;null;
+2014-07-31;5;186.5;null;null;190.9;4.9;null;77;956.3;null;null;14.6;null;3.1;1;84;null;
+2014-08-31;5;null;null;null;217.6;2.5;null;0;955.2;null;null;14.6;null;3.1;.9;84;null;
+2014-09-30;5;null;null;null;173.7;4.6;null;40;952.5;null;null;19.1;null;4.1;1.3;84;null;
+2014-10-31;5;299;null;null;217.1;5.5;null;27.2;951.4;null;null;19.9;null;3.6;1.2;84;null;
+2014-11-30;5;null;null;null;128.2;7.8;null;217.6;949.8;null;null;21.3;null;1.5;.8;84;null;
+2014-12-31;5;null;null;null;123.3;7.7;null;134;950.5;null;null;21.1;null;2.1;.8;84;null;
+2015-01-31;5;162.1;null;null;209.8;6.6;null;115.2;951.5;null;null;21.3;null;3.1;.8;83.5;null;
+2015-02-28;32;null;null;null;null;7.3;null;219;951;null;null;21.5;null;1.5;.8;84;null;
+2015-03-31;32;null;null;null;null;8.3;null;171.6;950.7;null;null;20.8;null;1.5;.7;99;null;
+2015-04-30;5;null;null;null;null;7.3;null;121;951.1;null;null;19.9;null;1.5;.7;99;null;
+2015-05-31;5;null;null;null;null;7.1;null;93.6;953;null;null;17.3;null;2.1;.8;99;null;
+2015-06-30;5;null;null;null;null;5.8;null;0;954.9;null;null;15.5;null;3.1;.9;99;null;
+2015-07-31;null;null;null;null;null;null;null;0;null;null;null;null;null;null;null;null;null;
+2015-08-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2015-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2015-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

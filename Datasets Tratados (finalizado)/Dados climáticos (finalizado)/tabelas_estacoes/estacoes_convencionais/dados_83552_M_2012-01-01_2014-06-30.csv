@@ -1,0 +1,42 @@
+Nome: CORUMBA
+Codigo Estacao: 83552
+Latitude: -19.00461
+Longitude: -57.672338
+Altitude: 131.07
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2014-06-30
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA AO NIVEL DO MAR, MEDIA MENSAL(mB);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;null;null;169.2;107.9;235.1;5.2;15;107.9;1011.5;993.8;34.7;null;null;71.8;null;null;96.9;
+2012-02-29;null;null;153.4;93.6;191.4;5.9;14;93.6;1013;995.1;34.1;null;null;74.9;null;null;96.9;
+2012-03-31;null;null;157.3;110.8;238.1;4.5;11;110.8;1014.4;996.5;33.9;null;null;73.5;null;null;96.8;
+2012-04-30;null;null;145.1;145.1;null;4.4;9;182.1;1013.8;996.7;33.2;null;null;null;null;null;96.5;
+2012-05-31;null;null;144;95.3;null;3.8;7;77.1;1017;999.6;30.6;null;null;null;null;null;96.2;
+2012-06-30;null;null;136.4;59.7;null;4.1;7;48.5;1018.2;1000.1;29.4;null;null;null;null;null;96.5;
+2012-07-31;null;null;142.3;6.6;null;3.2;1;.6;1019.1;1001;28.7;null;null;null;null;null;96.2;
+2012-08-31;null;null;147.4;1.5;247;1.6;null;0;1017.8;1000.5;33.8;null;null;null;null;null;95.8;
+2012-09-30;null;null;149.5;21.3;215.5;2.4;3;21;1015.1;997.7;36.9;null;null;null;null;null;96.2;
+2012-10-31;null;null;161.6;19.9;238.6;4.4;5;19.8;1011.8;994.1;37.2;null;null;59;null;null;96.8;
+2012-11-30;null;null;162.3;162.3;212.4;5.9;15;224.7;1011;993.3;34.6;null;null;72.6;null;null;96.9;
+2012-12-31;null;null;170.6;164.2;286.7;4.6;7;155.4;1010.9;993.3;35.3;null;null;71.4;null;null;97;
+2013-01-31;null;null;169.2;169.2;259.6;4.7;11;204.7;1011.8;994.1;35.3;null;null;70.2;null;null;97.1;
+2013-02-28;null;null;148.1;120.7;172.2;5.7;14;74.1;1012.1;994.5;34.3;null;null;78.1;null;null;97;
+2013-03-31;null;null;157.6;157.6;185.7;4.1;10;179;1013.5;996.1;33.3;null;null;null;null;null;96.7;
+2013-04-30;null;null;145.4;117.3;191.6;3.5;10;90.1;1015.2;997.5;32.4;null;null;null;null;null;96.7;
+2013-05-31;null;null;144.2;76.9;185.4;4.9;7;55.2;1016.7;998.6;30.1;null;null;76.8;null;null;96.9;
+2013-06-30;null;null;136.4;80.3;130.8;5.7;8;73.2;1017.5;999.2;28.5;null;null;81.7;null;null;96.9;
+2013-07-31;null;null;142.2;15.7;null;3.4;2;9.8;1019.3;1001.2;28.6;null;null;65.5;null;null;97;
+2013-08-31;null;null;147.2;4.2;null;2.1;1;2.6;null;null;29.9;null;null;51;null;null;97;
+2013-09-30;null;null;149.3;37.4;null;3.7;3;37.1;null;null;33.6;null;null;55.5;null;null;96.8;
+2013-10-31;null;null;161.4;51.4;null;5.2;9;51.3;null;null;34.8;null;null;64.5;null;null;97;
+2013-11-30;null;null;162.1;115.4;null;3.8;8;115.4;null;null;35.8;null;null;65;null;null;97;
+2013-12-31;null;null;170.5;170.5;null;5.2;12;273.5;null;null;35.4;null;null;72.3;null;null;96.9;
+2014-01-31;null;null;169.2;168.4;null;6.1;1;156.3;null;null;33.8;null;null;75.7;null;null;96.9;
+2014-02-28;null;null;148.1;143.5;null;6.8;null;126.1;null;null;32.9;null;null;78.8;null;null;96.9;
+2014-03-31;null;null;157.6;157.6;null;5.4;null;331.6;null;null;33;null;null;76.2;null;null;96.9;
+2014-04-30;null;null;145.4;103.1;null;3.6;null;36.9;null;null;33.4;null;null;null;null;null;96.6;
+2014-05-31;null;null;null;null;null;4.5;9;239.8;null;null;27.9;null;null;null;null;null;96.5;
+2014-06-30;null;null;null;null;null;4.2;null;null;null;null;28.1;null;null;null;null;null;96.4;
+

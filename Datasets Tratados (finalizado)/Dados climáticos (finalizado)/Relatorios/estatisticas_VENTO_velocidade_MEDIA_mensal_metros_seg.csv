@@ -1,0 +1,913 @@
+Tipo_Estacao,Local_Nome_Estacao,Contagem,Média,Mediana,Desvio Padrão,Mínimo,Máximo,Valores Nulos,% Nulos
+automatica,ABROLHOS,0,,,,,,154,100.0
+automatica,ACARAU,0,,,,,,154,100.0
+automatica,AFONSO CLAUDIO,0,,,,,,154,100.0
+automatica,AGUA BOA,0,,,,,,154,100.0
+automatica,AGUA CLARA,0,,,,,,154,100.0
+automatica,AGUAS EMENDADAS,0,,,,,,154,100.0
+automatica,AGUAS VERMELHAS,0,,,,,,154,100.0
+automatica,AIMORES,0,,,,,,154,100.0
+automatica,ALEGRE,0,,,,,,154,100.0
+automatica,ALEGRETE,0,,,,,,154,100.0
+automatica,ALFREDO CHAVES,0,,,,,,154,100.0
+automatica,ALMAS,0,,,,,,104,100.0
+automatica,ALMENARA,0,,,,,,154,100.0
+automatica,ALTA FLORESTA,0,,,,,,154,100.0
+automatica,ALTAMIRA,0,,,,,,73,100.0
+automatica,ALTO ARAGUAIA,0,,,,,,154,100.0
+automatica,ALTO PARAISO DE GOIAS,0,,,,,,154,100.0
+automatica,ALTO PARNAIBA,0,,,,,,154,100.0
+automatica,ALTO TAQUARI,0,,,,,,154,100.0
+automatica,ALVORADA DO GURGUEIA,0,,,,,,154,100.0
+automatica,AMAMBAI,0,,,,,,154,100.0
+automatica,AMARGOSA,0,,,,,,154,100.0
+automatica,ANGICAL DO PIAUI,0,,,,,,60,100.0
+automatica,ANGRA DOS REIS,0,,,,,,87,100.0
+automatica,APIACAS,0,,,,,,154,100.0
+automatica,APODI,0,,,,,,154,100.0
+automatica,APUI,0,,,,,,154,100.0
+automatica,AQUIDAUANA,0,,,,,,154,100.0
+automatica,ARACAJU,0,,,,,,154,100.0
+automatica,ARACUAI,0,,,,,,90,100.0
+automatica,ARAGARCAS,0,,,,,,154,100.0
+automatica,ARAGUACU,0,,,,,,111,100.0
+automatica,ARAGUAINA,0,,,,,,154,100.0
+automatica,ARAGUATINS,0,,,,,,154,100.0
+automatica,ARAPIRACA,0,,,,,,154,100.0
+automatica,ARARANGUA,0,,,,,,154,100.0
+automatica,ARAXA,0,,,,,,154,100.0
+automatica,ARCO VERDE,0,,,,,,154,100.0
+automatica,AREIA,0,,,,,,154,100.0
+automatica,AREMBEPE,0,,,,,,22,100.0
+automatica,ARIQUEMES,0,,,,,,154,100.0
+automatica,ARIRANHA,0,,,,,,154,100.0
+automatica,ARQ.SAO PEDRO E SAO PAULO,0,,,,,,112,100.0
+automatica,ARRAIAL DO CABO,0,,,,,,154,100.0
+automatica,AUTAZES,0,,,,,,154,100.0
+automatica,AVARE,0,,,,,,154,100.0
+automatica,BACABAL,0,,,,,,154,100.0
+automatica,BAGE,0,,,,,,154,100.0
+automatica,BAIXA GRANDE DO RIBEIRO,0,,,,,,80,100.0
+automatica,BALSAS,0,,,,,,154,100.0
+automatica,BAMBUI,0,,,,,,96,100.0
+automatica,BARBACENA,0,,,,,,154,100.0
+automatica,BARBALHA,0,,,,,,154,100.0
+automatica,BARCELOS,0,,,,,,154,100.0
+automatica,BARRA,0,,,,,,154,100.0
+automatica,BARRA BONITA,0,,,,,,154,100.0
+automatica,BARRA DO CORDA,0,,,,,,154,100.0
+automatica,BARRA DO TURVO,0,,,,,,154,100.0
+automatica,BARREIRAS,0,,,,,,154,100.0
+automatica,BARRETOS,0,,,,,,154,100.0
+automatica,BARUERI,0,,,,,,154,100.0
+automatica,BATAGUASSU,0,,,,,,140,100.0
+automatica,BAURU,0,,,,,,154,100.0
+automatica,BEBEDOURO,0,,,,,,97,100.0
+automatica,BELA VISTA,0,,,,,,134,100.0
+automatica,BELEM,0,,,,,,154,100.0
+automatica,BELMONTE,0,,,,,,154,100.0
+automatica,BELO HORIZONTE (PAMPULHA),0,,,,,,154,100.0
+automatica,BENTO GONCALVES,0,,,,,,154,100.0
+automatica,BERTIOGA,0,,,,,,94,100.0
+automatica,BOA VISTA,0,,,,,,154,100.0
+automatica,BOCA DO ACRE,0,,,,,,154,100.0
+automatica,BOM JARDIM DA SERRA - MORRO DA IGREJA,0,,,,,,154,100.0
+automatica,BOM JESUS DA LAPA,0,,,,,,154,100.0
+automatica,BOM JESUS DO PIAUI,0,,,,,,154,100.0
+automatica,BRAGANCA,0,,,,,,154,100.0
+automatica,BRAGANCA PAULISTA,0,,,,,,83,100.0
+automatica,BRASILIA,0,,,,,,154,100.0
+automatica,BRASNORTE (NOVO MUNDO),0,,,,,,154,100.0
+automatica,BRAZLANDIA,0,,,,,,88,100.0
+automatica,BREJO GRANDE,0,,,,,,154,100.0
+automatica,BREVES,0,,,,,,85,100.0
+automatica,BRUMADO,0,,,,,,154,100.0
+automatica,BURITICUPU,0,,,,,,154,100.0
+automatica,BURITIRAMA,0,,,,,,154,100.0
+automatica,BURITIS,0,,,,,,154,100.0
+automatica,CABACEIRAS,0,,,,,,154,100.0
+automatica,CABROBO,0,,,,,,154,100.0
+automatica,CACADOR,0,,,,,,154,100.0
+automatica,CACAPAVA DO SUL,0,,,,,,154,100.0
+automatica,CACERES,0,,,,,,107,100.0
+automatica,CACHOEIRA PAULISTA,0,,,,,,85,100.0
+automatica,CACOAL,0,,,,,,154,100.0
+automatica,CAIAPONIA,0,,,,,,154,100.0
+automatica,CAICO,0,,,,,,154,100.0
+automatica,CALCANHAR,0,,,,,,154,100.0
+automatica,CALDAS,0,,,,,,154,100.0
+automatica,CAMAQUA,0,,,,,,154,100.0
+automatica,CAMARATUBA,0,,,,,,154,100.0
+automatica,CAMBARA DO SUL,0,,,,,,96,100.0
+automatica,CAMBUCI,0,,,,,,154,100.0
+automatica,CAMETA,0,,,,,,154,100.0
+automatica,CAMPINA GRANDE,0,,,,,,154,100.0
+automatica,CAMPINA VERDE,0,,,,,,154,100.0
+automatica,CAMPO BOM,0,,,,,,132,100.0
+automatica,CAMPO GRANDE,0,,,,,,154,100.0
+automatica,CAMPO MAIOR,0,,,,,,72,100.0
+automatica,CAMPO NOVO DOS PARECIS,0,,,,,,154,100.0
+automatica,CAMPO VERDE,0,,,,,,154,100.0
+automatica,CAMPOS DO JORDAO,0,,,,,,154,100.0
+automatica,CAMPOS DOS GOYTACAZES,0,,,,,,154,100.0
+automatica,CAMPOS DOS GOYTACAZES - SAO TOME,0,,,,,,154,100.0
+automatica,CAMPOS LINDOS,0,,,,,,145,100.0
+automatica,CAMPOS NOVOS,0,,,,,,69,100.0
+automatica,CAMPOS SALES,0,,,,,,154,100.0
+automatica,CANELA,0,,,,,,154,100.0
+automatica,CANGUCU,0,,,,,,154,100.0
+automatica,CANTO DO BURITI,0,,,,,,154,100.0
+automatica,CAPAO DO LEAO (PELOTAS),0,,,,,,64,100.0
+automatica,CAPELINHA,0,,,,,,154,100.0
+automatica,CAPITAO POCO,0,,,,,,154,100.0
+automatica,CARACOL,0,,,,,,154,100.0
+automatica,CARATINGA,0,,,,,,154,100.0
+automatica,CARAVELAS,0,,,,,,154,100.0
+automatica,CARIRA,0,,,,,,129,100.0
+automatica,CARLINDA,0,,,,,,154,100.0
+automatica,CARMO,0,,,,,,73,100.0
+automatica,CAROLINA,0,,,,,,154,100.0
+automatica,CARUARU,0,,,,,,154,100.0
+automatica,CASA BRANCA,0,,,,,,154,100.0
+automatica,CASSILANDIA,0,,,,,,154,100.0
+automatica,CASTANHAL,0,,,,,,154,100.0
+automatica,CASTELO DO PIAUI,0,,,,,,154,100.0
+automatica,CASTRO,0,,,,,,154,100.0
+automatica,CATALAO,0,,,,,,154,100.0
+automatica,CAXIAS,0,,,,,,154,100.0
+automatica,CHAPADA GAUCHA,0,,,,,,154,100.0
+automatica,CHAPADAO DO SUL,0,,,,,,154,100.0
+automatica,CHAPADINHA,0,,,,,,154,100.0
+automatica,CHAPECO,0,,,,,,69,100.0
+automatica,CIDADE GAUCHA,0,,,,,,154,100.0
+automatica,CLEVELANDIA,0,,,,,,154,100.0
+automatica,COARI,0,,,,,,154,100.0
+automatica,COLINAS,0,,,,,,154,100.0
+automatica,COLINAS DO TOCANTINS,0,,,,,,96,100.0
+automatica,COMODORO,0,,,,,,154,100.0
+automatica,CONCEICAO DAS ALAGOAS,0,,,,,,154,100.0
+automatica,CONCEICAO DO ARAGUAIA,0,,,,,,154,100.0
+automatica,CONDE,0,,,,,,154,100.0
+automatica,CONFRESA,0,,,,,,75,100.0
+automatica,CORONEL PACHECO,0,,,,,,145,100.0
+automatica,CORRENTE,0,,,,,,80,100.0
+automatica,CORRENTINA,0,,,,,,154,100.0
+automatica,CORUMBA,0,,,,,,154,100.0
+automatica,CORURIPE,0,,,,,,154,100.0
+automatica,COSTA RICA,0,,,,,,143,100.0
+automatica,COTRIGUACU,0,,,,,,154,100.0
+automatica,COXIM,0,,,,,,154,100.0
+automatica,CRATEUS,0,,,,,,154,100.0
+automatica,CRISTALINA,0,,,,,,154,100.0
+automatica,CRISTALINA (FAZENDA SANTA MONICA),0,,,,,,82,100.0
+automatica,CRUZ ALTA,0,,,,,,154,100.0
+automatica,CRUZ DAS ALMAS,0,,,,,,154,100.0
+automatica,CRUZEIRO DO SUL,0,,,,,,114,100.0
+automatica,CUIABA,0,,,,,,154,100.0
+automatica,CURACA,0,,,,,,111,100.0
+automatica,CURITIBA,0,,,,,,154,100.0
+automatica,CURITIBANOS,0,,,,,,154,100.0
+automatica,CURVELO,0,,,,,,154,100.0
+automatica,DELFINO,0,,,,,,154,100.0
+automatica,DIAMANTE DO NORTE,0,,,,,,154,100.0
+automatica,DIAMANTINA,0,,,,,,154,100.0
+automatica,DIANOPOLIS,0,,,,,,154,100.0
+automatica,DIONISIO CERQUEIRA,0,,,,,,154,100.0
+automatica,DIVINOPOLIS,0,,,,,,85,100.0
+automatica,DOIS VIZINHOS,0,,,,,,154,100.0
+automatica,DOM ELISEU,0,,,,,,80,100.0
+automatica,DOM PEDRITO,0,,,,,,154,100.0
+automatica,DORES DO INDAIA,0,,,,,,154,100.0
+automatica,DOURADOS,0,,,,,,154,100.0
+automatica,DRACENA,0,,,,,,96,100.0
+automatica,DUQUE DE CAXIAS - XEREM,0,,,,,,154,100.0
+automatica,ECOPORANGA,0,,,,,,92,100.0
+automatica,EDEIA,0,,,,,,87,100.0
+automatica,EIRUNEPE,0,,,,,,147,100.0
+automatica,ENCRUZILHADA DO SUL,0,,,,,,80,100.0
+automatica,EPITACIOLANDIA,0,,,,,,154,100.0
+automatica,ERECHIM,0,,,,,,154,100.0
+automatica,ESPERANTINA,0,,,,,,83,100.0
+automatica,ESPINOSA,0,,,,,,154,100.0
+automatica,ESTREITO,0,,,,,,154,100.0
+automatica,EUCLIDES DA CUNHA,0,,,,,,154,100.0
+automatica,FACULDADE DA TERRA DE BRASILIA,0,,,,,,14,100.0
+automatica,FAROL de SANTANA,0,,,,,,154,100.0
+automatica,FEIJO,0,,,,,,154,100.0
+automatica,FEIRA DE SANTANA,0,,,,,,154,100.0
+automatica,FLORESTA,0,,,,,,154,100.0
+automatica,FLORESTAL,0,,,,,,154,100.0
+automatica,FLORIANO,0,,,,,,154,100.0
+automatica,FLORIANOPOLIS,0,,,,,,154,100.0
+automatica,FORMIGA,0,,,,,,154,100.0
+automatica,FORMOSA DO RIO PRETO,0,,,,,,101,100.0
+automatica,FORMOSO DO ARAGUAIA,0,,,,,,154,100.0
+automatica,FORTALEZA,0,,,,,,154,100.0
+automatica,FOZ DO IGUACU,0,,,,,,154,100.0
+automatica,FRANCA,0,,,,,,154,100.0
+automatica,FREDERICO WESTPHALEN,0,,,,,,154,100.0
+automatica,GAMA (PONTE ALTA),0,,,,,,122,100.0
+automatica,GARANHUNS,0,,,,,,154,100.0
+automatica,GAUCHA DO NORTE,0,,,,,,154,100.0
+automatica,GENERAL CARNEIRO,0,,,,,,154,100.0
+automatica,GILBUES,0,,,,,,154,100.0
+automatica,GOIANESIA,0,,,,,,154,100.0
+automatica,GOIANIA,0,,,,,,154,100.0
+automatica,GOIAS,0,,,,,,154,100.0
+automatica,GOIOERE,0,,,,,,154,100.0
+automatica,GOVERNADOR VALADARES,0,,,,,,154,100.0
+automatica,GRAJAU,0,,,,,,154,100.0
+automatica,GUANAMBI,0,,,,,,154,100.0
+automatica,GUANHAES,0,,,,,,154,100.0
+automatica,GUARAMIRANGA,0,,,,,,154,100.0
+automatica,GUARANTA DO NORTE,0,,,,,,154,100.0
+automatica,GUARDA-MOR,0,,,,,,154,100.0
+automatica,GUIRATINGA,0,,,,,,154,100.0
+automatica,GURUPI,0,,,,,,154,100.0
+automatica,HUMAITA,0,,,,,,154,100.0
+automatica,IBIMIRIM,0,,,,,,154,100.0
+automatica,IBIRITE (ROLA MOCA),0,,,,,,154,100.0
+automatica,IBIRUBA,0,,,,,,143,100.0
+automatica,IBITINGA,0,,,,,,154,100.0
+automatica,IBOTIRAMA,0,,,,,,154,100.0
+automatica,ICARAIMA,0,,,,,,154,100.0
+automatica,IGUAPE,0,,,,,,154,100.0
+automatica,IGUATU,0,,,,,,154,100.0
+automatica,ILHA DE TRINDADE,0,,,,,,10,100.0
+automatica,ILHA DO MEL,0,,,,,,74,100.0
+automatica,ILHEUS,0,,,,,,154,100.0
+automatica,IMPERATRIZ,0,,,,,,154,100.0
+automatica,INACIO MARTINS,0,,,,,,154,100.0
+automatica,INDAIAL,0,,,,,,154,100.0
+automatica,IPANGUACU,0,,,,,,84,100.0
+automatica,IPERO,0,,,,,,154,100.0
+automatica,IPIAU,0,,,,,,154,100.0
+automatica,IPORA,0,,,,,,137,100.0
+automatica,IRECE,0,,,,,,154,100.0
+automatica,ITABAIANA,0,,,,,,91,100.0
+automatica,ITABAIANINHA,0,,,,,,154,100.0
+automatica,ITABERABA,0,,,,,,154,100.0
+automatica,ITACOATIARA,0,,,,,,154,100.0
+automatica,ITAITUBA,0,,,,,,154,100.0
+automatica,ITAJAI,0,,,,,,154,100.0
+automatica,ITAMARAJU,0,,,,,,102,100.0
+automatica,ITAOBIM,0,,,,,,154,100.0
+automatica,ITAPACI,0,,,,,,154,100.0
+automatica,ITAPETINGA,0,,,,,,154,100.0
+automatica,ITAPEVA,0,,,,,,154,100.0
+automatica,ITAPIPOCA,0,,,,,,154,100.0
+automatica,ITAPIRA,0,,,,,,154,100.0
+automatica,ITAPOA,0,,,,,,154,100.0
+automatica,ITAPORANGA,0,,,,,,84,100.0
+automatica,ITAQUIRAI,0,,,,,,154,100.0
+automatica,ITATIAIA - AGULHAS NEGRAS,0,,,,,,64,100.0
+automatica,ITAUBAL,0,,,,,,87,100.0
+automatica,ITIQUIRA,0,,,,,,154,100.0
+automatica,ITIRUCU,0,,,,,,154,100.0
+automatica,ITUIUTABA,0,,,,,,154,100.0
+automatica,ITUMBIARA,0,,,,,,154,100.0
+automatica,ITUPORANGA,0,,,,,,154,100.0
+automatica,ITUVERAVA,0,,,,,,154,100.0
+automatica,IVAI,0,,,,,,154,100.0
+automatica,IVINHEMA,0,,,,,,154,100.0
+automatica,JACAREPAGUA,0,,,,,,18,100.0
+automatica,JACOBINA,0,,,,,,154,100.0
+automatica,JAGUARAO,0,,,,,,154,100.0
+automatica,JAGUARIBE,0,,,,,,154,100.0
+automatica,JAGUARUANA,0,,,,,,154,100.0
+automatica,JALES,0,,,,,,154,100.0
+automatica,JANUARIA,0,,,,,,101,100.0
+automatica,JAPIRA,0,,,,,,154,100.0
+automatica,JARDIM,0,,,,,,154,100.0
+automatica,JATAI,0,,,,,,154,100.0
+automatica,JEREMOABO,0,,,,,,111,100.0
+automatica,JOACABA,0,,,,,,154,100.0
+automatica,JOAO PESSOA,0,,,,,,154,100.0
+automatica,JOAO PINHEIRO,0,,,,,,154,100.0
+automatica,JOAQUIM TAVORA,0,,,,,,154,100.0
+automatica,JOSE BONIFACIO,0,,,,,,154,100.0
+automatica,JUARA,0,,,,,,154,100.0
+automatica,JUINA,0,,,,,,154,100.0
+automatica,JUIZ DE FORA,0,,,,,,154,100.0
+automatica,JUTI,0,,,,,,154,100.0
+automatica,LABREA,0,,,,,,154,100.0
+automatica,LAGES,0,,,,,,120,100.0
+automatica,LAGOA DA CONFUSAO,0,,,,,,96,100.0
+automatica,LAGOA VERMELHA,0,,,,,,154,100.0
+automatica,LENCOIS,0,,,,,,154,100.0
+automatica,LINHARES,0,,,,,,154,100.0
+automatica,LINS,0,,,,,,154,100.0
+automatica,LUIZ EDUARDO MAGALHAES,0,,,,,,154,100.0
+automatica,LUZIANIA,0,,,,,,154,100.0
+automatica,Laguna - Farol de Santa Marta,0,,,,,,154,100.0
+automatica,MACAE,0,,,,,,154,100.0
+automatica,MACAJUBA,0,,,,,,154,100.0
+automatica,MACAPA,0,,,,,,131,100.0
+automatica,MACAU,0,,,,,,154,100.0
+automatica,MACAUBAS,0,,,,,,37,100.0
+automatica,MACEIO,0,,,,,,154,100.0
+automatica,MACHADO,0,,,,,,88,100.0
+automatica,MAJOR VIEIRA,0,,,,,,154,100.0
+automatica,MAL. CANDIDO RONDON,0,,,,,,154,100.0
+automatica,MANACAPURU,0,,,,,,154,100.0
+automatica,MANAUS,0,,,,,,154,100.0
+automatica,MANHUACU,0,,,,,,154,100.0
+automatica,MANICORE,0,,,,,,154,100.0
+automatica,MANTENA,0,,,,,,154,100.0
+automatica,MARABA,0,,,,,,154,100.0
+automatica,MARACAJU,0,,,,,,154,100.0
+automatica,MARAU,0,,,,,,154,100.0
+automatica,MARECHAL THAUMATURGO,0,,,,,,154,100.0
+automatica,MARIA DA FE,0,,,,,,154,100.0
+automatica,MARIANOPOLIS DO TO,0,,,,,,144,100.0
+automatica,MARILANDIA,0,,,,,,92,100.0
+automatica,MARILIA,0,,,,,,90,100.0
+automatica,MARINGA,0,,,,,,154,100.0
+automatica,MATEIROS,0,,,,,,145,100.0
+automatica,MAUES,0,,,,,,154,100.0
+automatica,MEDICILANDIA,0,,,,,,154,100.0
+automatica,MINA DO PALITO,0,,,,,,154,100.0
+automatica,MINEIROS,0,,,,,,154,100.0
+automatica,MIRANDA,0,,,,,,154,100.0
+automatica,MOCAMBINHO,0,,,,,,154,100.0
+automatica,MOELA,0,,,,,,65,100.0
+automatica,MONTALVANIA,0,,,,,,154,100.0
+automatica,MONTE ALEGRE,0,,,,,,148,100.0
+automatica,MONTE ALEGRE DE GOIAS,0,,,,,,154,100.0
+automatica,MONTE VERDE,0,,,,,,154,100.0
+automatica,MONTEIRO,0,,,,,,154,100.0
+automatica,MONTES CLAROS,0,,,,,,154,100.0
+automatica,MORADA NOVA,0,,,,,,154,100.0
+automatica,MORRETES,0,,,,,,154,100.0
+automatica,MORRINHOS,0,,,,,,154,100.0
+automatica,MOSSORO,0,,,,,,154,100.0
+automatica,MOSTARDAS,0,,,,,,154,100.0
+automatica,MURIAE,0,,,,,,154,100.0
+automatica,NATAL,0,,,,,,154,100.0
+automatica,NHUMIRIM,0,,,,,,154,100.0
+automatica,NIQUELANDIA,0,,,,,,78,100.0
+automatica,NITEROI,0,,,,,,76,100.0
+automatica,NOSSA SENHORA DA GLORIA,0,,,,,,92,100.0
+automatica,NOVA FATIMA,0,,,,,,154,100.0
+automatica,NOVA FRIBURGO - SALINAS,0,,,,,,154,100.0
+automatica,NOVA MARINGA,0,,,,,,154,100.0
+automatica,NOVA PORTEIRINHA (JANAUBA),0,,,,,,96,100.0
+automatica,NOVA TEBAS,0,,,,,,154,100.0
+automatica,NOVA UBIRATA,0,,,,,,154,100.0
+automatica,NOVA VENECIA,0,,,,,,137,100.0
+automatica,NOVO ARIPUANA,0,,,,,,64,100.0
+automatica,NOVO HORIZONTE,0,,,,,,154,100.0
+automatica,NOVO REPARTIMENTO,0,,,,,,154,100.0
+automatica,OBIDOS,0,,,,,,148,100.0
+automatica,OEIRAS,0,,,,,,154,100.0
+automatica,OIAPOQUE,0,,,,,,154,100.0
+automatica,OLIVEIRA,0,,,,,,85,100.0
+automatica,OURICURI,0,,,,,,154,100.0
+automatica,OURINHOS,0,,,,,,154,100.0
+automatica,OURO BRANCO,0,,,,,,154,100.0
+automatica,PACAJA,0,,,,,,154,100.0
+automatica,PALMARES,0,,,,,,154,100.0
+automatica,PALMAS,0,,,,,,154,100.0
+automatica,PALMEIRA DAS MISSOES,0,,,,,,154,100.0
+automatica,PALMEIRA DOS INDIOS,0,,,,,,154,100.0
+automatica,PAO DE ACUCAR,0,,,,,,154,100.0
+automatica,PARACATU,0,,,,,,80,100.0
+automatica,PARAGOMINAS,0,,,,,,154,100.0
+automatica,PARANA,0,,,,,,154,100.0
+automatica,PARANAIBA,0,,,,,,154,100.0
+automatica,PARANAPOEMA,0,,,,,,154,100.0
+automatica,PARANATINGA,0,,,,,,154,100.0
+automatica,PARANOA (COOPA-DF),0,,,,,,93,100.0
+automatica,PARATY,0,,,,,,154,100.0
+automatica,PARAUNA,0,,,,,,154,100.0
+automatica,PARINTINS,0,,,,,,154,100.0
+automatica,PARNAIBA,0,,,,,,154,100.0
+automatica,PARQUE ESTADUAL CHANDLESS,0,,,,,,154,100.0
+automatica,PASSA QUATRO,0,,,,,,154,100.0
+automatica,PASSO FUNDO,0,,,,,,154,100.0
+automatica,PASSOS,0,,,,,,154,100.0
+automatica,PATOS,0,,,,,,154,100.0
+automatica,PATOS DE MINAS,0,,,,,,90,100.0
+automatica,PATROCINIO,0,,,,,,154,100.0
+automatica,PAULISTANA,0,,,,,,154,100.0
+automatica,PAULO AFONSO,0,,,,,,63,100.0
+automatica,PEDRO AFONSO,0,,,,,,154,100.0
+automatica,PEIXE,0,,,,,,154,100.0
+automatica,PETROLINA,0,,,,,,154,100.0
+automatica,PIATA,0,,,,,,154,100.0
+automatica,PICO DO COUTO,0,,,,,,154,100.0
+automatica,PICOS,0,,,,,,154,100.0
+automatica,PILAO ARCADO,0,,,,,,77,100.0
+automatica,PIRACICABA,0,,,,,,154,100.0
+automatica,PIRANHAS,0,,,,,,86,100.0
+automatica,PIRAPORA,0,,,,,,154,100.0
+automatica,PIRES DO RIO,0,,,,,,154,100.0
+automatica,PIRIPIRI,0,,,,,,154,100.0
+automatica,PIUM,0,,,,,,103,100.0
+automatica,PLACAS,0,,,,,,154,100.0
+automatica,PLANALTO,0,,,,,,154,100.0
+automatica,POCO VERDE,0,,,,,,154,100.0
+automatica,POMPEU,0,,,,,,111,100.0
+automatica,PONTA PORA,0,,,,,,154,100.0
+automatica,PONTES E LACERDA,0,,,,,,154,100.0
+automatica,PORANGATU,0,,,,,,154,100.0
+automatica,PORTO ALEGRE - JARDIM BOTANICO,0,,,,,,154,100.0
+automatica,PORTO DE MOZ,0,,,,,,31,100.0
+automatica,PORTO ESTRELA,0,,,,,,154,100.0
+automatica,PORTO GRANDE,0,,,,,,154,100.0
+automatica,PORTO MURTINHO,0,,,,,,154,100.0
+automatica,PORTO SEGURO,0,,,,,,154,100.0
+automatica,PORTO VELHO,0,,,,,,154,100.0
+automatica,PORTO WALTER,0,,,,,,154,100.0
+automatica,POSSE,0,,,,,,154,100.0
+automatica,PRADOPOLIS,0,,,,,,154,100.0
+automatica,PREGUICAS,0,,,,,,154,100.0
+automatica,PRESIDENTE FIGUEIREDO,0,,,,,,154,100.0
+automatica,PRESIDENTE KENNEDY,0,,,,,,154,100.0
+automatica,PRESIDENTE PRUDENTE,0,,,,,,154,100.0
+automatica,PRIMAVERA DO LESTE,0,,,,,,85,100.0
+automatica,Paty do Alferes - Avelar,0,,,,,,24,100.0
+automatica,QUARAI,0,,,,,,154,100.0
+automatica,QUEIMADAS,0,,,,,,154,100.0
+automatica,QUERENCIA,0,,,,,,154,100.0
+automatica,QUIXADA,0,,,,,,80,100.0
+automatica,QUIXERAMOBIM,0,,,,,,154,100.0
+automatica,RANCHARIA,0,,,,,,154,100.0
+automatica,RANCHO QUEIMADO,0,,,,,,102,100.0
+automatica,RECIFE,0,,,,,,119,100.0
+automatica,REDENCAO,0,,,,,,64,100.0
+automatica,REGISTRO,0,,,,,,93,100.0
+automatica,REMANSO,0,,,,,,154,100.0
+automatica,RESENDE,0,,,,,,154,100.0
+automatica,RIBEIRA DO AMPARO,0,,,,,,74,100.0
+automatica,RIO BRANCO,0,,,,,,154,100.0
+automatica,RIO BRILHANTE,0,,,,,,154,100.0
+automatica,RIO CLARO,0,,,,,,101,100.0
+automatica,RIO DE JANEIRO - FORTE DE COPACABANA,0,,,,,,154,100.0
+automatica,RIO DE JANEIRO - JACAREPAGUA,0,,,,,,87,100.0
+automatica,RIO DE JANEIRO - VILA MILITAR,0,,,,,,154,100.0
+automatica,RIO DE JANEIRO-MARAMBAIA,0,,,,,,154,100.0
+automatica,RIO DO CAMPO,0,,,,,,154,100.0
+automatica,RIO GRANDE,0,,,,,,154,100.0
+automatica,RIO NEGRINHO,0,,,,,,154,100.0
+automatica,RIO PARDO,0,,,,,,154,100.0
+automatica,RIO PARDO DE MINAS,0,,,,,,154,100.0
+automatica,RIO SONO,0,,,,,,99,100.0
+automatica,RIO URUBU,0,,,,,,154,100.0
+automatica,RIO VERDE,0,,,,,,154,100.0
+automatica,RONDON DO PARA,0,,,,,,154,100.0
+automatica,RONDONOPOLIS,0,,,,,,154,100.0
+automatica,ROSARIO OESTE,0,,,,,,66,100.0
+automatica,S. G. DA CACHOEIRA,0,,,,,,154,100.0
+automatica,S.J. DO RIO CLARO,0,,,,,,154,100.0
+automatica,SACRAMENTO,0,,,,,,154,100.0
+automatica,SALGUEIRO,0,,,,,,86,100.0
+automatica,SALINAS,0,,,,,,154,100.0
+automatica,SALINOPOLIS,0,,,,,,154,100.0
+automatica,SALTO DO CEU,0,,,,,,154,100.0
+automatica,SALVADOR,0,,,,,,154,100.0
+automatica,SALVADOR (RADIO FAROL),0,,,,,,80,100.0
+automatica,SANTA CRUZ,0,,,,,,154,100.0
+automatica,SANTA FE DO ARAGUAIA,0,,,,,,100,100.0
+automatica,SANTA MARIA,0,,,,,,154,100.0
+automatica,SANTA MARIA DAS BARREIRAS,0,,,,,,47,100.0
+automatica,SANTA MARIA MADALENA,0,,,,,,73,100.0
+automatica,SANTA RITA DE CASSIA,0,,,,,,154,100.0
+automatica,SANTA ROSA,0,,,,,,154,100.0
+automatica,SANTA ROSA DO TOCANTINS,0,,,,,,111,100.0
+automatica,SANTA TERESA,0,,,,,,154,100.0
+automatica,SANTANA DO ARAGUAIA,0,,,,,,154,100.0
+automatica,SANTANA DO LIVRAMENTO,0,,,,,,154,100.0
+automatica,SANTAREM,0,,,,,,110,100.0
+automatica,SANTIAGO,0,,,,,,154,100.0
+automatica,SANTO ANTONIO DO LESTE,0,,,,,,154,100.0
+automatica,SANTO AUGUSTO,0,,,,,,154,100.0
+automatica,SAO BORJA,0,,,,,,154,100.0
+automatica,SAO CARLOS,0,,,,,,154,100.0
+automatica,SAO FELIX DO ARAGUAIA,0,,,,,,154,100.0
+automatica,SAO FELIX DO XINGU,0,,,,,,96,100.0
+automatica,SAO GABRIEL,0,,,,,,154,100.0
+automatica,SAO GABRIEL DO OESTE,0,,,,,,154,100.0
+automatica,SAO GONCALO,0,,,,,,154,100.0
+automatica,SAO JOAO DEL REI,0,,,,,,154,100.0
+automatica,SAO JOAO DO PIAUI,0,,,,,,154,100.0
+automatica,SAO JOAQUIM,0,,,,,,154,100.0
+automatica,SAO JOSE DO XINGU,0,,,,,,69,100.0
+automatica,SAO JOSE DOS AUSENTES,0,,,,,,154,100.0
+automatica,SAO LUIS,0,,,,,,154,100.0
+automatica,SAO LUIS DO QUITUNDE,0,,,,,,154,100.0
+automatica,SAO LUIZ DO PARAITINGA,0,,,,,,154,100.0
+automatica,SAO LUIZ GONZAGA,0,,,,,,154,100.0
+automatica,SAO MATEUS,0,,,,,,154,100.0
+automatica,SAO MATEUS DO SUL,0,,,,,,154,100.0
+automatica,SAO MIGUEL ARCANJO,0,,,,,,154,100.0
+automatica,SAO MIGUEL DO ARAGUAIA,0,,,,,,89,100.0
+automatica,SAO MIGUEL DO OESTE,0,,,,,,154,100.0
+automatica,SAO PAULO - INTERLAGOS,0,,,,,,80,100.0
+automatica,SAO PAULO - MIRANTE,0,,,,,,154,100.0
+automatica,SAO PEDRO DO PIAUI,0,,,,,,95,100.0
+automatica,SAO RAIMUNDO NONATO,0,,,,,,154,100.0
+automatica,SAO ROMAO,0,,,,,,154,100.0
+automatica,SAO SEBASTIAO,0,,,,,,54,100.0
+automatica,SAO SEBASTIAO DO PARAISO,0,,,,,,111,100.0
+automatica,SAO SIMAO,0,,,,,,218,100.0
+automatica,SAO VICENTE DO SUL,0,,,,,,103,100.0
+automatica,SAPEZAL,0,,,,,,85,100.0
+automatica,SAQUAREMA - SAMPAIO CORREIA,0,,,,,,110,100.0
+automatica,SENHOR DO BONFIM,0,,,,,,154,100.0
+automatica,SERAFINA CORREA,0,,,,,,104,100.0
+automatica,SEROPEDICA-ECOLOGIA AGRICOLA,0,,,,,,154,100.0
+automatica,SERRA DOS AIMORES,0,,,,,,154,100.0
+automatica,SERRA DOS CARAJAS,0,,,,,,154,100.0
+automatica,SERRA NOVA DOURADA,0,,,,,,68,100.0
+automatica,SERRA TALHADA,0,,,,,,154,100.0
+automatica,SERRINHA,0,,,,,,154,100.0
+automatica,SETE LAGOAS,0,,,,,,101,100.0
+automatica,SETE QUEDAS,0,,,,,,154,100.0
+automatica,SIDROLANDIA,0,,,,,,154,100.0
+automatica,SILVA JARDIM,0,,,,,,111,100.0
+automatica,SILVANIA,0,,,,,,154,100.0
+automatica,SINOP,0,,,,,,154,100.0
+automatica,SOBRAL,0,,,,,,154,100.0
+automatica,SOLEDADE,0,,,,,,154,100.0
+automatica,SONORA,0,,,,,,144,100.0
+automatica,SORRISO,0,,,,,,154,100.0
+automatica,SOURE,0,,,,,,154,100.0
+automatica,SURUBIM,0,,,,,,154,100.0
+automatica,Santa Vitoria do Palmar - Barra do Chui,0,,,,,,154,100.0
+automatica,TANGARA DA SERRA,0,,,,,,154,100.0
+automatica,TARTARUGALZINHO,0,,,,,,78,100.0
+automatica,TAUA,0,,,,,,154,100.0
+automatica,TAUBATE,0,,,,,,154,100.0
+automatica,TEOFILO OTONI,0,,,,,,154,100.0
+automatica,TERESINA,0,,,,,,154,100.0
+automatica,TERESOPOLIS-PARQUE NACIONAL,0,,,,,,154,100.0
+automatica,TEUTONIA,0,,,,,,145,100.0
+automatica,TIANGUA,0,,,,,,80,100.0
+automatica,TIMOTEO,0,,,,,,154,100.0
+automatica,TOME ACU,0,,,,,,154,100.0
+automatica,TORRES,0,,,,,,154,100.0
+automatica,TRAMANDAI,0,,,,,,154,100.0
+automatica,TRES LAGOAS,0,,,,,,154,100.0
+automatica,TRES MARIAS,0,,,,,,154,100.0
+automatica,TRES RIOS,0,,,,,,101,100.0
+automatica,TUCUMA,0,,,,,,154,100.0
+automatica,TUCURUI,0,,,,,,154,100.0
+automatica,TUPA,0,,,,,,90,100.0
+automatica,TUPANCIRETA,0,,,,,,99,100.0
+automatica,TURIACU,0,,,,,,154,100.0
+automatica,UAUA,0,,,,,,129,100.0
+automatica,UBERABA,0,,,,,,90,100.0
+automatica,UBERLANDIA,0,,,,,,154,100.0
+automatica,UNA,0,,,,,,154,100.0
+automatica,UNAI,0,,,,,,154,100.0
+automatica,URUCARA,0,,,,,,154,100.0
+automatica,URUCUI,0,,,,,,154,100.0
+automatica,URUGUAIANA,0,,,,,,154,100.0
+automatica,URUSSANGA,0,,,,,,154,100.0
+automatica,VACARIA,0,,,,,,154,100.0
+automatica,VALENCA,0,,,,,,308,100.0
+automatica,VALENCA DO PIAUI,0,,,,,,154,100.0
+automatica,VALPARAISO,0,,,,,,154,100.0
+automatica,VARGINHA,0,,,,,,154,100.0
+automatica,VENDA NOVA DO IMIGRANTE,0,,,,,,93,100.0
+automatica,VENTANIA,0,,,,,,154,100.0
+automatica,VICOSA,0,,,,,,154,100.0
+automatica,VILA BELA DA SANTISSIMA TRINDADE,0,,,,,,154,100.0
+automatica,VILA VELHA,0,,,,,,93,100.0
+automatica,VILHENA,0,,,,,,154,100.0
+automatica,VITORIA,0,,,,,,154,100.0
+automatica,VITORIA DA CONQUISTA,0,,,,,,154,100.0
+automatica,VOTUPORANGA,0,,,,,,129,100.0
+automatica,XANXERE,0,,,,,,154,100.0
+automatica,XINGUARA,0,,,,,,98,100.0
+automatica,ZE DOCA,0,,,,,,62,100.0
+convencional,AGUA BRANCA,0,,,,,,154,100.0
+convencional,AIMORES,0,,,,,,31,100.0
+convencional,ALAGOINHAS,0,,,,,,121,100.0
+convencional,ALTAMIRA,139,1.12,1.1,0.46,0.2,2.1,15,9.74
+convencional,ALTO DA BOA VISTA,0,,,,,,154,100.0
+convencional,ALTO LONGA (PILOTO DO LONGA),0,,,,,,154,100.0
+convencional,ALTO PARNAIBA,0,,,,,,115,100.0
+convencional,AMAPA,0,,,,,,154,100.0
+convencional,ANGRA DOS REIS,0,,,,,,64,100.0
+convencional,ANTONIO PRADO,0,,,,,,154,100.0
+convencional,APODI,0,,,,,,154,100.0
+convencional,ARACAJU,108,2.58,2.6,0.39,1.8,3.5,0,0.0
+convencional,ARACUAI,0,,,,,,154,100.0
+convencional,ARAGARCAS,0,,,,,,154,100.0
+convencional,ARAGUAINA,0,,,,,,154,100.0
+convencional,ARAPIRACA,0,,,,,,154,100.0
+convencional,ARAXA,26,2.17,2.1,0.38,1.5,2.8,128,83.12
+convencional,ARCO VERDE,0,,,,,,154,100.0
+convencional,AREIA,0,,,,,,154,100.0
+convencional,ARINOS,0,,,,,,154,100.0
+convencional,AVARE,0,,,,,,25,100.0
+convencional,AVELAR (P.DO ALFERES),0,,,,,,98,100.0
+convencional,BACABAL,58,1.14,1.05,0.39,0.5,2.4,96,62.34
+convencional,BACACHERI,0,,,,,,154,100.0
+convencional,BAGE,154,2.74,2.75,0.5,1.5,4.0,0,0.0
+convencional,BALSAS,0,,,,,,154,100.0
+convencional,BAMBUI,0,,,,,,76,100.0
+convencional,BARBACENA,0,,,,,,77,100.0
+convencional,BARBALHA,111,0.96,0.9,0.55,0.1,3.1,4,3.48
+convencional,BARCELOS,119,0.68,0.5,0.4,0.1,1.5,35,22.73
+convencional,BARRA,0,,,,,,154,100.0
+convencional,BARRA DO CORDA,104,1.55,1.5,0.37,0.7,2.6,50,32.47
+convencional,BARRA DO RIO GRANDE,0,,,,,,154,100.0
+convencional,BARREIRAS,110,1.22,1.1,0.45,0.4,2.5,44,28.57
+convencional,BELA VISTA,0,,,,,,154,100.0
+convencional,BELEM,150,1.05,1.0,0.34,0.4,1.9,4,2.6
+convencional,BELO HORIZONTE,151,1.2,1.2,0.17,0.7,1.6,3,1.95
+convencional,BELTERRA,150,0.88,0.9,0.09,0.7,1.1,4,2.6
+convencional,BENJAMIN CONSTANT,109,0.63,0.6,0.2,0.2,1.0,45,29.22
+convencional,BENTO GONCALVES,0,,,,,,24,100.0
+convencional,BOA ESPERANCA,0,,,,,,141,100.0
+convencional,BOA VISTA,141,1.29,1.2,0.59,0.3,4.3,13,8.44
+convencional,BOM DESPACHO,0,,,,,,85,100.0
+convencional,BOM JESUS,0,,,,,,154,100.0
+convencional,BOM JESUS DA LAPA,148,1.07,1.1,0.21,0.6,1.6,6,3.9
+convencional,BOM JESUS DO PIAUI,0,,,,,,139,100.0
+convencional,BRASILIA,154,1.9,1.9,0.53,0.7,4.5,0,0.0
+convencional,BREVES,0,,,,,,154,100.0
+convencional,C. DO MATO DENTRO,0,,,,,,154,100.0
+convencional,CABROBO,0,,,,,,154,100.0
+convencional,CACERES,0,,,,,,31,100.0
+convencional,CAETITE,0,,,,,,91,100.0
+convencional,CALDAS(P. DE CALDAS),0,,,,,,45,100.0
+convencional,CALDEIRAO,0,,,,,,38,100.0
+convencional,CAMBARA DO SUL,0,,,,,,115,100.0
+convencional,CAMETA,0,,,,,,154,100.0
+convencional,CAMPINA GRANDE,0,,,,,,154,100.0
+convencional,CAMPO BELO SUL,0,,,,,,154,100.0
+convencional,CAMPO BOM,0,,,,,,23,100.0
+convencional,CAMPO LARGO,0,,,,,,154,100.0
+convencional,CAMPO MOURAO,59,2.57,2.5,0.38,1.9,3.7,1,1.67
+convencional,CAMPOS,146,0.67,0.65,0.37,0.0,1.6,8,5.19
+convencional,CAMPOS DO JORDAO,0,,,,,,87,100.0
+convencional,CAMPOS NOVOS,0,,,,,,67,100.0
+convencional,CAMPOS SALES,0,,,,,,87,100.0
+convencional,CANARANA,0,,,,,,154,100.0
+convencional,CANAVIEIRAS,0,,,,,,115,100.0
+convencional,CAPARAO,0,,,,,,154,100.0
+convencional,CAPINOPOLIS,0,,,,,,80,100.0
+convencional,CARACARAI,152,0.64,0.6,0.3,0.1,1.5,2,1.3
+convencional,CARACOL,0,,,,,,115,100.0
+convencional,CARATINGA,148,1.54,1.5,0.35,1.0,2.6,6,3.9
+convencional,CARAVELAS,64,2.16,2.1,0.57,0.8,3.4,90,58.44
+convencional,CARBONITA,0,,,,,,154,100.0
+convencional,CARINHANHA,0,,,,,,106,100.0
+convencional,CARMO,0,,,,,,87,100.0
+convencional,CAROLINA,50,0.73,0.9,0.56,0.0,2.2,104,67.53
+convencional,CASTRO,0,,,,,,115,100.0
+convencional,CATALAO,0,,,,,,154,100.0
+convencional,CATANDUVA,108,1.95,1.9,0.28,1.3,3.1,7,6.09
+convencional,CAXIAS,0,,,,,,128,100.0
+convencional,CAXIAS DO SUL,0,,,,,,154,100.0
+convencional,CEARA MIRIM,0,,,,,,154,100.0
+convencional,CHAPADINHA,0,,,,,,154,100.0
+convencional,CHAPECO,0,,,,,,61,100.0
+convencional,CIPO,0,,,,,,154,100.0
+convencional,COARI,49,1.04,1.1,0.23,0.2,1.3,0,0.0
+convencional,CODAJAS,148,1.77,1.8,0.31,0.9,2.5,6,3.9
+convencional,COLINAS,0,,,,,,154,100.0
+convencional,CONCEICAO DO ARAGUAIA,0,,,,,,154,100.0
+convencional,CORDEIRO,0,,,,,,154,100.0
+convencional,CORNELIO PROCOPIO,0,,,,,,154,100.0
+convencional,CORRENTINA,0,,,,,,154,100.0
+convencional,CORUMBA,0,,,,,,30,100.0
+convencional,CRATEUS,47,3.17,3.3,0.67,1.5,4.3,29,38.16
+convencional,CROSLANDIA,0,,,,,,154,100.0
+convencional,CRUZ ALTA,0,,,,,,154,100.0
+convencional,CRUZ DAS ALMAS,0,,,,,,154,100.0
+convencional,CRUZEIRO DO SUL,46,0.38,0.3,0.22,0.0,1.0,3,6.12
+convencional,CRUZETA,0,,,,,,115,100.0
+convencional,CUIABA,0,,,,,,154,100.0
+convencional,CURITIBA,90,2.2,2.2,0.29,1.6,2.8,25,21.74
+convencional,CURVELO,0,,,,,,124,100.0
+convencional,DIAMANTINA,0,,,,,,98,100.0
+convencional,DIAMANTINO,149,0.0,0.0,0.01,0.0,0.1,5,3.25
+convencional,DIVINOPOLIS,0,,,,,,117,100.0
+convencional,DOCAS DE SANTO (ITAPEMA),0,,,,,,154,100.0
+convencional,ECOPORANGA,0,,,,,,38,100.0
+convencional,EIRUNEPE,151,0.03,0.0,0.05,0.0,0.2,3,1.95
+convencional,ENCRUZILHADA DO SUL,0,,,,,,115,100.0
+convencional,ESC.AGROTEC.DE MANAUS,0,,,,,,154,100.0
+convencional,ESPERANTINA,0,,,,,,83,100.0
+convencional,ESPINOSA,0,,,,,,87,100.0
+convencional,FEIRA DE SANTANA,0,,,,,,84,100.0
+convencional,FLORANIA,0,,,,,,77,100.0
+convencional,FLORESTAL,0,,,,,,79,100.0
+convencional,FLORIANO,134,1.48,1.3,0.68,0.5,3.4,20,12.99
+convencional,FLORIANOPOLIS,93,1.91,2.0,0.62,0.4,2.9,6,6.06
+convencional,FONTE BOA,146,0.8,0.9,0.21,0.3,1.2,8,5.19
+convencional,FORMOSA,0,,,,,,154,100.0
+convencional,FORMOSO,0,,,,,,154,100.0
+convencional,FORTALEZA,149,2.67,2.7,0.79,1.0,4.4,5,3.25
+convencional,FRANCA,154,2.42,2.4,0.36,1.6,3.3,0,0.0
+convencional,FRUTAL,0,,,,,,21,100.0
+convencional,GARANHUNS,0,,,,,,131,100.0
+convencional,GLEBA CELESTE,26,1.28,1.1,0.39,0.9,2.7,3,10.34
+convencional,GOIANA,0,,,,,,154,100.0
+convencional,GOIANIA,154,1.02,1.0,0.16,0.7,1.5,0,0.0
+convencional,GOIAS,0,,,,,,70,100.0
+convencional,GUARABIRA,0,,,,,,154,100.0
+convencional,GUARAMIRANGA,0,,,,,,92,100.0
+convencional,GUARATINGA,0,,,,,,154,100.0
+convencional,GUARULHOS,0,,,,,,36,100.0
+convencional,GURUPI,0,,,,,,154,100.0
+convencional,IAUARETE,68,0.97,1.0,0.17,0.6,1.3,24,26.09
+convencional,IBIRITE,0,,,,,,119,100.0
+convencional,IBIRUBA,0,,,,,,2,100.0
+convencional,IGUABA GRANDE,0,,,,,,148,100.0
+convencional,IGUATU,0,,,,,,115,100.0
+convencional,IMPERATRIZ,0,,,,,,154,100.0
+convencional,INDAIAL,0,,,,,,75,100.0
+convencional,IPAMERI,0,,,,,,154,100.0
+convencional,IRAI,62,1.0,1.0,0.37,0.2,1.8,17,21.52
+convencional,IRATI,154,1.74,1.7,0.31,1.0,2.6,0,0.0
+convencional,IRECE,0,,,,,,115,100.0
+convencional,ITABAIANINHA,0,,,,,,154,100.0
+convencional,ITABERABA,0,,,,,,86,100.0
+convencional,ITABUNA,0,,,,,,154,100.0
+convencional,ITACARAMBI,0,,,,,,154,100.0
+convencional,ITACOATIARA,153,0.92,0.9,0.22,0.2,1.5,1,0.65
+convencional,ITAITUBA,154,0.74,0.7,0.24,0.3,1.4,0,0.0
+convencional,ITAMARANDIBA,0,,,,,,154,100.0
+convencional,ITAPERUNA,0,,,,,,154,100.0
+convencional,ITARANA,0,,,,,,23,100.0
+convencional,ITIRUCU (JAGUAQUARA),0,,,,,,49,100.0
+convencional,ITUACU,0,,,,,,115,100.0
+convencional,ITUIUTABA,0,,,,,,46,100.0
+convencional,ITUMBIARA,0,,,,,,5,100.0
+convencional,IVAI,0,,,,,,115,100.0
+convencional,IVINHEMA,30,1.68,1.7,0.2,1.4,2.1,0,0.0
+convencional,JACOBINA,37,3.65,3.5,0.66,2.5,4.9,98,72.59
+convencional,JAGUARUANA,0,,,,,,88,100.0
+convencional,JANAUBA,0,,,,,,56,100.0
+convencional,JANUARIA,0,,,,,,154,100.0
+convencional,JATAI,0,,,,,,154,100.0
+convencional,JOAO MONLEVADE,0,,,,,,89,100.0
+convencional,JOAO PESSOA,0,,,,,,154,100.0
+convencional,JOAO PINHEIRO,62,1.39,1.4,0.21,1.0,2.1,11,15.07
+convencional,JUAZEIRO DO NORTE,0,,,,,,154,100.0
+convencional,JUIZ DE FORA,0,,,,,,154,100.0
+convencional,JURAMENTO,0,,,,,,146,100.0
+convencional,LABREA,149,1.73,1.7,0.35,0.9,2.8,5,3.25
+convencional,LAGES,0,,,,,,64,100.0
+convencional,LAGOA VERMELHA,0,,,,,,154,100.0
+convencional,LAMBARI,0,,,,,,7,100.0
+convencional,LAVRAS,0,,,,,,154,100.0
+convencional,LENCOIS,154,1.88,1.9,0.39,1.2,3.0,0,0.0
+convencional,LOANDA,0,,,,,,154,100.0
+convencional,LONDRINA,148,0.78,0.75,0.24,0.1,1.4,6,3.9
+convencional,LUZIANIA,0,,,,,,154,100.0
+convencional,LUZILANDIA(LAG.DO PIAUI),0,,,,,,154,100.0
+convencional,MACAIBA,0,,,,,,154,100.0
+convencional,MACAPA,144,1.72,1.6,0.75,0.4,3.7,10,6.49
+convencional,MACAU,0,,,,,,79,100.0
+convencional,MACEIO,0,,,,,,112,100.0
+convencional,MACHADO,0,,,,,,125,100.0
+convencional,MAJOR ISIDORO,0,,,,,,154,100.0
+convencional,MANAUS,152,0.96,0.9,0.19,0.5,1.5,2,1.3
+convencional,MANICORE,122,0.62,0.7,0.12,0.3,1.0,4,3.17
+convencional,MARABA,39,1.19,1.4,0.54,0.0,2.0,115,74.68
+convencional,MARIA DA FE,0,,,,,,56,100.0
+convencional,MARICA,0,,,,,,77,100.0
+convencional,MARILANDIA (COLATINA),0,,,,,,53,100.0
+convencional,MARINGA,0,,,,,,154,100.0
+convencional,MATA GRANDE,0,,,,,,154,100.0
+convencional,MATEUS LEME,0,,,,,,154,100.0
+convencional,MATUPA,0,,,,,,111,100.0
+convencional,MOCAMBINHO,0,,,,,,7,100.0
+convencional,MONTE ALEGRE,0,,,,,,154,100.0
+convencional,MONTE AZUL,0,,,,,,49,100.0
+convencional,MONTE SANTO,0,,,,,,100,100.0
+convencional,MONTEIRO,0,,,,,,154,100.0
+convencional,MONTES CLAROS,85,1.42,1.4,0.49,0.7,2.7,69,44.81
+convencional,MORADA NOVA,0,,,,,,154,100.0
+convencional,MORRO DO CHAPEU,0,,,,,,154,100.0
+convencional,MORRO DOS CAVALOS,0,,,,,,38,100.0
+convencional,MUCURI,0,,,,,,154,100.0
+convencional,MUNIZ FREIRE,0,,,,,,148,100.0
+convencional,NANUQUE-ALCANA,0,,,,,,154,100.0
+convencional,NATAL,125,3.75,3.8,1.05,0.4,6.6,29,18.83
+convencional,NAZARE DA MATA,0,,,,,,154,100.0
+convencional,NHUMIRIM (NHECOLANDIA),0,,,,,,95,100.0
+convencional,NOVA CRUZ,0,,,,,,154,100.0
+convencional,NOVA XAV.(XAVANTINA),0,,,,,,154,100.0
+convencional,OBIDOS,0,,,,,,115,100.0
+convencional,OLINDA,0,,,,,,154,100.0
+convencional,OLIVEIRA,0,,,,,,70,100.0
+convencional,OURICURI,0,,,,,,154,100.0
+convencional,PADRE RICARDO REMETTER,0,,,,,,154,100.0
+convencional,PALMAS,0,,,,,,154,100.0
+convencional,PALMEIRA DOS INDIOS,0,,,,,,154,100.0
+convencional,PAO DE ACUCAR,0,,,,,,154,100.0
+convencional,PARACATU,0,,,,,,119,100.0
+convencional,PARANAGUA,0,,,,,,116,100.0
+convencional,PARANAIBA,152,0.87,0.8,0.21,0.3,1.5,2,1.3
+convencional,PARINTINS,49,0.18,0.0,0.26,0.0,0.8,0,0.0
+convencional,PARNAIBA,81,3.55,3.5,1.16,1.5,5.7,0,0.0
+convencional,PASSA QUATRO,0,,,,,,154,100.0
+convencional,PASSO FUNDO,0,,,,,,154,100.0
+convencional,PATOS,127,3.89,3.9,1.18,1.3,5.4,27,17.53
+convencional,PATOS DE MINAS,0,,,,,,77,100.0
+convencional,PAULISTANA,0,,,,,,154,100.0
+convencional,PAULO AFONSO,0,,,,,,40,100.0
+convencional,PEDRA AZUL,0,,,,,,154,100.0
+convencional,PEDRO AFONSO,0,,,,,,154,100.0
+convencional,PEIXE,0,,,,,,154,100.0
+convencional,PELOTAS,0,,,,,,154,100.0
+convencional,PESQUEIRA,0,,,,,,47,100.0
+convencional,PETROLINA,150,2.84,2.9,0.51,0.6,3.7,4,2.6
+convencional,PICOS,0,,,,,,130,100.0
+convencional,PILAR (MANGUABA),0,,,,,,154,100.0
+convencional,PIRAPORA,0,,,,,,94,100.0
+convencional,PIRENOPOLIS,0,,,,,,154,100.0
+convencional,PIRIPIRI,0,,,,,,115,100.0
+convencional,POMPEU,0,,,,,,48,100.0
+convencional,PONTA PORA,49,2.51,2.5,0.31,1.9,3.3,0,0.0
+convencional,PORANGATU,0,,,,,,154,100.0
+convencional,PORTEIRINHA,0,,,,,,154,100.0
+convencional,PORTO ALEGRE,154,2.01,2.0,0.45,0.8,3.5,0,0.0
+convencional,PORTO DE MOZ,0,,,,,,154,100.0
+convencional,PORTO DE PEDRAS,0,,,,,,154,100.0
+convencional,PORTO LUCENA,0,,,,,,154,100.0
+convencional,PORTO NACIONAL,154,0.94,0.9,0.18,0.5,1.4,0,0.0
+convencional,POSSE,128,0.73,0.7,0.34,0.2,1.9,26,16.88
+convencional,POXOREU,115,0.98,1.0,0.17,0.6,1.4,0,0.0
+convencional,PRESIDENTE PRUDENTE,3,1.5,1.4,0.26,1.3,1.8,2,40.0
+convencional,PROPRIA,0,,,,,,154,100.0
+convencional,QUIXADA,0,,,,,,154,100.0
+convencional,QUIXERAMOBIM,148,3.53,3.6,0.8,1.8,5.6,6,3.9
+convencional,REALENGO,0,,,,,,125,100.0
+convencional,RECIFE (CURADO),95,1.81,1.8,0.45,0.8,2.7,9,8.65
+convencional,REMANSO,0,,,,,,115,100.0
+convencional,RESENDE,49,1.25,1.2,0.34,0.6,1.9,105,68.18
+convencional,RIO BONITO,0,,,,,,89,100.0
+convencional,RIO BRANCO,134,1.04,1.1,0.24,0.4,1.7,6,4.29
+convencional,RIO DE JANEIRO,0,,,,,,64,100.0
+convencional,RIO GRANDE,0,,,,,,37,100.0
+convencional,RIO VERDE,0,,,,,,154,100.0
+convencional,RONCADOR,0,,,,,,69,100.0
+convencional,RONDONOPOLIS,0,,,,,,49,100.0
+convencional,SALINAS,0,,,,,,154,100.0
+convencional,SALVADOR (ONDINA),93,0.92,0.8,0.35,0.4,1.8,61,39.61
+convencional,SANTA CRUZ,0,,,,,,96,100.0
+convencional,SANTA MARIA,0,,,,,,154,100.0
+convencional,SANTA MARIA MADALENA,0,,,,,,154,100.0
+convencional,SANTA VITORIA DO PALMAR,35,3.17,3.2,0.59,1.9,4.4,119,77.27
+convencional,SANTANA DO LIVRAMENTO,0,,,,,,24,100.0
+convencional,SANTO ANTONIO DE PADUA,0,,,,,,154,100.0
+convencional,SAO CARLOS,126,1.47,1.4,0.52,0.6,3.1,24,16.0
+convencional,SAO FELIX DO XINGU,0,,,,,,115,100.0
+convencional,SAO GABRIEL DA CACHOEIRA(UAUPES),149,0.94,0.9,0.4,0.3,2.0,5,3.25
+convencional,SAO GONCALO,0,,,,,,154,100.0
+convencional,SAO JOAO DO PIAUI,0,,,,,,154,100.0
+convencional,SAO JOAQUIM,0,,,,,,65,100.0
+convencional,SAO JOSE DO BARREIRO,0,,,,,,154,100.0
+convencional,SAO JOSE DO RIO CLARO,0,,,,,,49,100.0
+convencional,SAO LOURENCO,0,,,,,,154,100.0
+convencional,SAO LUIS,151,1.84,1.8,0.76,0.0,3.5,3,1.95
+convencional,SAO LUIZ GONZAGA,0,,,,,,154,100.0
+convencional,SAO MATEUS,0,,,,,,115,100.0
+convencional,SAO PAULO(MIR.de SANTANA),140,2.18,2.4,0.62,0.8,3.3,14,9.09
+convencional,SAO S.DO PARAISO,0,,,,,,27,100.0
+convencional,SAO SIMAO,0,,,,,,154,100.0
+convencional,SAO VICENTE,0,,,,,,154,100.0
+convencional,SERIDO (CAICO),0,,,,,,154,100.0
+convencional,SERRINHA,0,,,,,,150,100.0
+convencional,SETE LAGOAS,0,,,,,,55,100.0
+convencional,SOBRAL,0,,,,,,104,100.0
+convencional,SOROCABA,0,,,,,,303,100.0
+convencional,SOURE,0,,,,,,115,100.0
+convencional,STa. R. DE CASSIA (IBIPETUBA),0,,,,,,120,100.0
+convencional,SURUBIM,0,,,,,,154,100.0
+convencional,TAGUATINGA,153,0.76,0.7,0.44,0.1,2.2,1,0.65
+convencional,TAPACURA,0,,,,,,154,100.0
+convencional,TARAUACA,153,0.51,0.5,0.14,0.1,0.8,1,0.65
+convencional,TAUA,0,,,,,,115,100.0
+convencional,TAUBATE,0,,,,,,32,100.0
+convencional,TEFE,149,0.47,0.5,0.16,0.1,0.8,5,3.25
+convencional,TEOFILO OTONI,80,1.02,1.0,0.22,0.7,1.5,7,8.05
+convencional,TERESINA,137,1.16,1.1,0.38,0.3,2.0,17,11.04
+convencional,TERESOPOLIS,0,,,,,,154,100.0
+convencional,TORRES,0,,,,,,112,100.0
+convencional,TRACUATEUA,0,,,,,,154,100.0
+convencional,TRES PASSOS,0,,,,,,154,100.0
+convencional,TRIUNFO,0,,,,,,93,100.0
+convencional,TUCURUI,0,,,,,,154,100.0
+convencional,TURIACU,0,,,,,,154,100.0
+convencional,UBERABA,0,,,,,,80,100.0
+convencional,UNAI,0,,,,,,154,100.0
+convencional,URUGUAIANA,0,,,,,,87,100.0
+convencional,URUSSANGA,0,,,,,,69,100.0
+convencional,VALE DO GURGUEIA (CRISTIANO CASTRO),0,,,,,,78,100.0
+convencional,VICOSA,0,,,,,,75,100.0
+convencional,VICOSA DO CEARA,0,,,,,,154,100.0
+convencional,VILA DEODORO,0,,,,,,154,100.0
+convencional,VITORIA,46,2.07,2.0,0.51,1.2,3.4,108,70.13
+convencional,VITORIA DA CONQUISTA,65,2.25,2.2,0.45,1.4,3.2,89,57.79
+convencional,VOTUPORANGA,0,,,,,,115,100.0
+convencional,ZE DOCA,0,,,,,,154,100.0

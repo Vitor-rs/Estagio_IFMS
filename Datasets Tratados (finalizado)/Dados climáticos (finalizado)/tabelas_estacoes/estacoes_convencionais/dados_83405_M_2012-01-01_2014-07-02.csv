@@ -1,0 +1,43 @@
+Nome: CACERES
+Codigo Estacao: 83405
+Latitude: -16.04972221
+Longitude: -57.68083332
+Altitude: 118
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2014-07-02
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;null;null;null;null;null;null;2;null;null;null;null;null;null;null;null;null;null;
+2012-02-29;null;null;138;138;155.1;4.9;12;159.6;994.5;32.8;26.8;23.2;79;null;null;26.8;null;
+2012-03-31;null;85;139;129.3;156.2;4.8;7;91.6;995.5;31.9;26.4;23;79.2;null;null;27.8;null;
+2012-04-30;null;null;132.5;107.3;169.7;4.7;8;89.2;995.1;31.4;26.4;23;80.8;null;null;28.7;null;
+2012-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2012-08-31;null;null;122;3.5;251.4;1.6;null;0;998;35.2;25.8;18.5;54.8;null;null;32.4;null;
+2012-09-30;null;null;155.3;81;185.7;2;4;80.2;996;36.1;27.7;21.3;58.3;null;null;21.2;null;
+2012-10-31;null;null;178.8;53;200.6;3.6;5;52.5;994.2;35.1;28.3;24;68.6;null;null;26.4;null;
+2012-11-30;null;null;160.4;160.4;131.7;5.4;10;240.6;993.4;32.1;27.5;24.5;78.7;null;null;93.3;null;
+2012-12-31;null;null;170.2;170.2;152.2;4.9;10;222;994.3;32.4;27.4;24;78.3;null;null;94.3;null;
+2013-01-31;null;76;169;169;141.5;5.5;13;259.4;994.7;32.5;27.4;24.2;80.5;null;null;26.9;null;
+2013-02-28;null;59;110;110;121.4;6.1;8;122;994.7;null;null;23.9;82.5;null;null;25.7;null;
+2013-03-31;null;99.4;159.2;147.4;180.3;4.9;null;106.2;995.7;32.3;27.1;23.5;82.2;null;null;28.4;null;
+2013-04-30;null;89;129.4;107.9;149.8;4.6;7;94.4;997;31.4;26;22;81.8;null;null;26.3;null;
+2013-05-31;null;61;109.4;48.7;156.3;5.5;null;26.8;997.3;31.1;25;20.6;79.7;null;null;25;null;
+2013-06-30;null;89;null;null;173;4.5;null;57.9;997.2;31.5;25.5;20.6;79.6;null;null;26.1;null;
+2013-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2013-08-31;null;81;93.4;3;231.5;2.6;null;0;997.9;32.5;23.7;15.9;67.8;null;null;27.2;null;
+2013-09-30;null;106;139;38.3;181.2;3.2;null;37;996.3;34.6;26.9;21.2;69.2;null;null;26.7;null;
+2013-10-31;null;121.6;156.7;136.9;145.6;4.9;11;152.6;995.6;33.8;27.2;22.7;75;null;null;25.7;null;
+2013-11-30;null;87;162.2;100;160.6;4.6;8;99.5;994;34.2;27.4;23.4;74.5;null;null;25.7;null;
+2013-12-31;null;93;168.1;168.1;126.3;5.5;12;178.1;993.6;32.5;27.4;24.1;78;null;null;25.1;null;
+2014-01-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2014-02-28;null;61.7;123.5;123.5;83.5;6.9;null;374.7;994.9;30.5;26;22.9;84.8;null;null;25.9;null;
+2014-03-31;null;83.5;146.2;146.2;124.4;5.5;null;240.6;995.1;32.7;26.7;23.3;81.9;null;null;28.2;null;
+2014-04-30;null;101.3;129.4;117.3;174.3;4.8;null;75.8;995;31.9;26.3;22.9;82.4;null;null;26.7;null;
+2014-05-31;null;86;99.6;99.6;147.5;4.4;null;125.4;996.6;30.5;24.3;20.6;81.8;null;null;25.8;null;
+2014-06-30;null;74;93.4;56.3;162.5;4.5;null;7.8;997.7;31.1;24.1;19.9;81;null;null;26.2;null;
+2014-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+

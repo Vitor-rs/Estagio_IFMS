@@ -1,0 +1,108 @@
+Nome: SANTA CRUZ
+Codigo Estacao: 83789
+Latitude: -22.92194443
+Longitude: -43.68694444
+Altitude: 63
+Situacao: Desativada
+Data Inicial: 2012-01-01
+Data Final: 2019-12-18
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2012-01-31;null;null;null;null;null;null;13;202.3;null;31.3;null;22.1;null;null;null;null;null;
+2012-02-29;null;null;null;null;null;null;5;72.4;null;35.2;null;22.5;null;null;null;null;null;
+2012-03-31;null;null;null;null;null;null;13;92.8;null;32.4;null;21.9;null;null;null;null;null;
+2012-04-30;null;null;null;null;null;null;10;105.7;null;30.2;null;21.2;null;null;null;null;null;
+2012-05-31;null;null;null;null;null;null;9;106.6;null;27.6;null;18.5;null;null;null;null;null;
+2012-06-30;null;null;null;null;null;null;14;115.7;null;26.9;null;19.1;null;null;null;null;null;
+2012-07-31;null;null;null;null;null;null;8;43.6;null;27.1;null;18.1;null;null;null;null;null;
+2012-08-31;null;null;null;null;null;null;7;18.8;null;28.4;null;17.5;null;null;null;null;null;
+2012-09-30;null;null;null;null;null;null;8;111.5;null;28;null;18.5;null;null;null;null;null;
+2012-10-31;null;null;null;null;null;null;7;69.7;null;31.2;null;20.4;null;null;null;null;null;
+2012-11-30;null;null;null;null;null;null;12;101.7;null;28.1;null;20.5;null;null;null;null;null;
+2012-12-31;null;null;null;null;null;null;7;52.6;null;35.4;null;24;null;null;null;null;null;
+2013-01-31;null;null;null;null;null;null;22;487.6;null;30.8;null;22.4;null;null;null;null;null;
+2013-02-28;null;null;null;null;null;null;8;176.2;null;34.9;null;23.2;null;null;null;null;null;
+2013-03-31;null;null;null;null;null;null;21;261.9;null;30.8;null;22.4;null;null;null;null;null;
+2013-04-30;null;null;null;null;null;null;8;138.2;null;29.3;null;20.1;null;null;null;null;null;
+2013-05-31;null;null;null;null;null;null;11;96.6;null;28.1;null;18.8;null;null;null;null;null;
+2013-06-30;null;null;null;null;null;null;10;52.6;null;27.5;null;19.1;null;null;null;null;null;
+2013-07-31;null;null;null;null;null;null;13;129.5;null;25.7;null;16.9;null;null;null;null;null;
+2013-08-31;null;null;null;null;null;null;5;4.9;null;27.5;null;17.5;null;null;null;null;null;
+2013-09-30;null;null;null;null;null;null;8;64.2;null;28.7;null;18.9;null;null;null;null;null;
+2013-10-31;null;null;null;null;null;null;11;79;null;28.3;null;19.6;null;null;null;null;null;
+2013-11-30;null;null;null;null;null;null;14;172.6;null;29.8;null;20.6;null;null;null;null;null;
+2013-12-31;null;null;null;null;null;null;null;97.2;null;30.8;null;22.1;null;null;null;null;null;
+2014-01-31;null;null;null;null;null;null;null;91.2;null;36.7;null;24.4;null;null;null;null;null;
+2014-02-28;null;null;null;null;null;null;null;14.1;null;37.2;null;24.1;null;null;null;null;null;
+2014-03-31;null;null;null;null;null;null;null;150.5;null;33.3;null;22.2;null;null;null;null;null;
+2014-04-30;null;null;null;null;null;null;null;70.6;null;29.3;null;20.7;null;null;null;null;null;
+2014-05-31;null;null;null;null;null;null;null;57.9;null;28;null;18.8;null;null;null;null;null;
+2014-06-30;null;null;null;null;null;null;null;73.2;null;27.9;null;19;null;null;null;null;null;
+2014-07-31;null;null;null;null;null;null;null;83.8;null;25.9;null;17.6;null;null;null;null;null;
+2014-08-31;null;null;null;null;null;null;null;62.3;null;27.5;null;17.6;null;null;null;null;null;
+2014-09-30;null;null;null;null;null;null;null;59.4;null;30;null;19.2;null;null;null;null;null;
+2014-10-31;null;null;null;null;null;null;null;17.5;null;30.6;null;19.7;null;null;null;null;null;
+2014-11-30;null;null;null;null;null;null;null;75.5;null;31.4;null;21.3;null;null;null;null;null;
+2014-12-31;null;null;null;null;null;null;null;70;null;33.9;null;23;null;null;null;null;null;
+2015-01-31;null;null;null;null;null;null;null;167.9;null;35.6;null;25.2;null;null;null;null;null;
+2015-02-28;null;null;null;null;null;null;null;149.6;null;34;null;23.1;null;null;null;null;null;
+2015-03-31;null;null;null;null;null;null;null;215.3;null;31.2;null;22.6;null;null;null;null;null;
+2015-04-30;null;null;null;null;null;null;null;64.2;null;29.8;null;21.3;null;null;null;null;null;
+2015-05-31;null;null;null;null;null;null;null;52.5;null;28.3;null;19.3;null;null;null;null;null;
+2015-06-30;null;null;null;null;null;null;null;85.8;null;27.7;null;18.4;null;null;null;null;null;
+2015-07-31;null;null;null;null;null;null;null;24.1;null;28;null;19.1;null;null;null;null;null;
+2015-08-31;null;null;null;null;null;null;null;4.7;null;30.9;null;18.6;null;null;null;null;null;
+2015-09-30;null;null;null;null;null;null;null;90.2;null;28.9;null;20.1;null;null;null;null;null;
+2015-10-31;null;null;null;null;null;null;null;34;null;31;null;21.3;null;null;null;null;null;
+2015-11-30;null;null;null;null;null;null;null;205.4;null;30;null;22.2;null;null;null;null;null;
+2015-12-31;null;null;null;null;null;null;null;103.2;null;33.3;null;23.3;null;null;null;null;null;
+2016-01-31;null;null;null;null;null;null;null;243.4;null;31;null;23.4;null;null;null;null;null;
+2016-02-29;null;null;null;null;null;null;null;90.4;null;35.5;null;23.5;null;null;null;null;null;
+2016-03-31;null;null;null;null;null;null;null;129.4;null;32.1;null;23.3;null;null;null;null;null;
+2016-04-30;null;null;null;null;null;null;null;12;null;34.2;null;22.8;null;null;null;null;null;
+2016-05-31;null;null;null;null;null;null;null;52.7;null;27.3;null;18.8;null;null;null;null;null;
+2016-06-30;null;null;null;null;null;null;null;85.9;null;23.9;null;16.8;null;null;null;null;null;
+2016-07-31;null;null;null;null;null;null;null;2.2;null;27.2;null;18;null;null;null;null;null;
+2016-08-31;null;null;null;null;null;null;null;35.5;null;28.5;null;18.2;null;null;null;null;null;
+2016-09-30;null;null;null;null;null;null;null;54.8;null;27.5;null;19.2;null;null;null;null;null;
+2016-10-31;null;null;null;null;null;null;null;44.7;null;29.3;null;20.1;null;null;null;null;null;
+2016-11-30;null;null;null;null;null;null;null;143.3;null;29.4;null;20.7;null;null;null;null;null;
+2016-12-31;null;null;null;null;null;null;null;134.3;null;32.5;null;22.4;null;null;null;null;null;
+2017-01-31;null;null;null;null;null;null;null;107.7;null;34.8;null;24.6;null;null;null;null;null;
+2017-02-28;null;null;null;null;null;null;null;12.4;null;null;null;23.4;null;null;null;null;null;
+2017-03-31;null;null;null;null;null;null;null;160.2;null;31.2;null;22.3;null;null;null;null;null;
+2017-04-30;null;null;null;null;null;null;null;188.8;null;28.8;null;20.8;null;null;null;null;null;
+2017-05-31;null;null;null;null;null;null;null;55.4;null;27.6;null;18.8;null;null;null;null;null;
+2017-06-30;null;null;null;null;null;null;null;75.1;null;28.2;null;18.1;null;null;null;null;null;
+2017-07-31;null;null;null;null;null;null;null;20;null;27;null;16.5;null;null;null;null;null;
+2017-08-31;null;null;null;null;null;null;null;44.4;null;26.4;null;17.2;null;null;null;null;null;
+2017-09-30;null;null;null;null;null;null;null;6.3;null;31.2;null;19;null;null;null;null;null;
+2017-10-31;null;null;null;null;null;null;null;91.8;null;30.5;null;20.5;null;null;null;null;null;
+2017-11-30;null;null;null;null;null;null;null;166.3;null;29.9;null;20.5;null;null;null;null;null;
+2017-12-31;null;null;null;null;null;null;null;94.3;null;30.6;null;22.1;null;null;null;null;null;
+2018-01-31;null;null;null;null;null;null;null;303.9;null;32.3;null;23.7;null;null;null;null;null;
+2018-02-28;null;null;null;null;null;null;null;173.4;null;31.2;null;21.9;null;null;null;null;null;
+2018-03-31;null;null;null;null;null;null;null;85.7;null;32.3;null;23.4;null;null;null;null;null;
+2018-04-30;null;null;null;null;null;null;null;114.3;null;30.9;null;21.1;null;null;null;null;null;
+2018-05-31;null;null;null;null;null;null;null;47.2;null;28.7;null;19.2;null;null;null;null;null;
+2018-06-30;null;null;null;null;null;null;null;30.2;null;27.6;null;18.9;null;null;null;null;null;
+2018-07-31;null;null;null;null;null;null;null;21.7;null;28.8;null;18.6;null;null;null;null;null;
+2018-08-31;null;null;null;null;null;null;null;83.7;null;25.7;null;17.6;null;null;null;null;null;
+2018-09-30;null;null;null;null;null;null;null;63;null;29.1;null;19.4;null;null;null;null;null;
+2018-10-31;null;null;null;null;null;null;null;110.5;null;28.1;null;20.7;null;null;null;null;null;
+2018-11-30;null;null;null;null;null;null;null;158.8;null;29.7;null;21.2;null;null;null;null;null;
+2018-12-31;null;null;null;null;null;null;null;45.7;null;33.4;null;22.5;null;null;null;null;null;
+2019-01-31;null;null;null;null;null;null;null;75.8;null;37.4;null;25.4;null;null;null;null;null;
+2019-02-28;null;null;null;null;null;null;null;298.8;null;32.5;null;23.2;null;null;null;null;null;
+2019-03-31;null;null;null;null;null;null;null;381.5;null;32.3;null;22.1;null;null;null;null;null;
+2019-04-30;null;null;null;null;null;null;null;211.8;null;32;null;22;null;null;null;null;null;
+2019-05-31;null;null;null;null;null;null;null;95.8;null;30.2;null;20.8;null;null;null;null;null;
+2019-06-30;null;null;null;null;null;null;null;62;null;29.7;null;19.3;null;null;null;null;null;
+2019-07-31;null;null;null;null;null;null;null;11.4;null;28.2;null;16.9;null;null;null;null;null;
+2019-08-31;null;null;null;null;null;null;null;68;null;27.2;null;17.1;null;null;null;null;null;
+2019-09-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2019-10-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2019-11-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2019-12-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+
